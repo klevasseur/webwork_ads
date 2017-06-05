@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<chapter xml:id="chapter_1" xmlns:xi="http://www.w3.org/2001/XInclude">
+<title>Set Theory I</title>
+<introduction>
+<title>Goals for Chapter 1</title>
+<p>In this chapter we will cover some of the basic set language and notation that will be used throughout the text. Venn diagrams will be introduced in order to give the reader a clear picture of set operations. In addition, we will describe the binary representation of positive integers (Section 1.4) and introduce summation notation and its generalizations (Section 1.5).</p>  
+</introduction> 
+<section xml:id="s-1-1">
+<title>Set Notation and Relations</title>
+<exercises>
+
+<exercise xml:id="subsetB1-pg">
+<introduction><p>Description: Library/SDSU/Discrete/Sets/subsetB1.pg</p></introduction>
+<webwork source="Library/SDSU/Discrete/Sets/subsetB1.pg"/>
+</exercise>
+<exercise xml:id="subsetB2-pg">
+<introduction><p>Description: Library/SDSU/Discrete/Sets/subsetB2.pg</p></introduction>
+<webwork source="Library/SDSU/Discrete/Sets/subsetB2.pg"/>
+</exercise>
+<exercise xml:id="subsetB3-pg">
+<introduction><p>Description: Library/SDSU/Discrete/Sets/subsetB3.pg</p></introduction>
+<webwork source="Library/SDSU/Discrete/Sets/subsetB3.pg"/>
+</exercise>
+
+ </exercises>
+</section>
+ <section xml:id="s-1-2">
+<title>Basic Set Operations</title>
+<exercises>
+<exercise xml:id="intersectA1-pg">
+<introduction><p>Description: Library/SDSU/Discrete/Sets/intersectA1.pg</p></introduction>
+<webwork source="Library/SDSU/Discrete/Sets/intersectA1.pg"/>
+</exercise>
+<exercise xml:id="intersectA2-pg">
+<introduction><p>Description: Library/SDSU/Discrete/Sets/intersectA2.pg</p></introduction>
+<webwork source="Library/SDSU/Discrete/Sets/intersectA2.pg"/>
+</exercise>
+<exercise xml:id="intersectB3-pg">
+<introduction><p>Description: Library/SDSU/Discrete/Sets/intersectB3.pg</p></introduction>
+<webwork source="Library/SDSU/Discrete/Sets/intersectB3.pg"/>
+</exercise>
+<exercise xml:id="differenceB1-pg">
+<introduction><p>Description: Library/SDSU/Discrete/Sets/differenceB1.pg</p></introduction>
+<webwork source="Library/SDSU/Discrete/Sets/differenceB1.pg"/>
+</exercise>
+<exercise xml:id="differenceB2-pg">
+<introduction><p>Description: Library/SDSU/Discrete/Sets/differenceB2.pg</p></introduction>
+<webwork source="Library/SDSU/Discrete/Sets/differenceB2.pg"/>
+</exercise>
+<exercise xml:id="differenceB3-pg">
+<introduction><p>Description: Library/SDSU/Discrete/Sets/differenceB3.pg</p></introduction>
+<webwork source="Library/SDSU/Discrete/Sets/differenceB3.pg"/>
+</exercise>
+<exercise xml:id="differenceB4-pg">
+<introduction><p>Description: Library/SDSU/Discrete/Sets/differenceB4.pg</p></introduction>
+<webwork source="Library/SDSU/Discrete/Sets/differenceB4.pg"/>
+</exercise>
+<exercise xml:id="complementA1-pg">
+<introduction><p>Description: Library/SDSU/Discrete/Sets/complementA1.pg</p></introduction>
+<webwork source="Library/SDSU/Discrete/Sets/complementA1.pg"/>
+</exercise>
+<exercise xml:id="complementA2-pg">
+<introduction><p>Description: Library/SDSU/Discrete/Sets/complementA2.pg</p></introduction>
+<webwork source="Library/SDSU/Discrete/Sets/complementA2.pg"/>
+</exercise>
+<exercise xml:id="unionB1-pg">
+<introduction><p>Description: Library/SDSU/Discrete/Sets/unionB1.pg</p></introduction>
+<webwork source="Library/SDSU/Discrete/Sets/unionB1.pg"/>
+</exercise>
+<exercise xml:id="unionB2-pg">
+<introduction><p>Description: Library/SDSU/Discrete/Sets/unionB2.pg</p></introduction>
+<webwork source="Library/SDSU/Discrete/Sets/unionB2.pg"/>
+</exercise>
+<exercise xml:id="unionB3-pg">
+<introduction><p>Description: Library/SDSU/Discrete/Sets/unionB3.pg</p></introduction>
+<webwork source="Library/SDSU/Discrete/Sets/unionB3.pg"/>
+</exercise>
+
+<exercise xml:id="ur_st_1_2-pg">
+<introduction><p>Description: Library/ASU-topics/setSets/ur_st_1_2.pg</p></introduction>
+<webwork source="Library/ASU-topics/setSets/ur_st_1_2.pg"/>
+</exercise>
+<exercise xml:id="ur_st_1_3-pg">
+<introduction><p>Description: Library/ASU-topics/setSets/ur_st_1_3.pg</p></introduction>
+<webwork source="Library/ASU-topics/setSets/ur_st_1_3.pg"/>
+</exercise>
+<exercise xml:id="VennA1">
+<introduction><p>Description: Library/SDSU/Discrete/Sets/VennA1</p></introduction>
+<webwork source="Library/SDSU/Discrete/Sets/VennA1/VennA1.pg"/>
+</exercise>
+<exercise xml:id="VennA2">
+<introduction><p>Description: Library/SDSU/Discrete/Sets/VennA2</p></introduction>
+<webwork source="Library/SDSU/Discrete/Sets/VennA2/VennA2.pg"/>
+</exercise>
+<exercise xml:id="VennB10">
+<introduction><p>Description: Library/SDSU/Discrete/Sets/VennB10</p></introduction>
+<webwork source="Library/SDSU/Discrete/Sets/VennB10/VennB10.pg"/>
+</exercise>
+<exercise xml:id="VennB11">
+<introduction><p>Description: Library/SDSU/Discrete/Sets/VennB11</p></introduction>
+<webwork source="Library/SDSU/Discrete/Sets/VennB11/VennB11.pg"/>
+</exercise>
+<exercise xml:id="VennB12">
+<introduction><p>Description: Library/SDSU/Discrete/Sets/VennB12</p></introduction>
+<webwork source="Library/SDSU/Discrete/Sets/VennB12/VennB12.pg"/>
+</exercise>
+<exercise xml:id="VennB3">
+<introduction><p>Description: Library/SDSU/Discrete/Sets/VennB3</p></introduction>
+<webwork source="Library/SDSU/Discrete/Sets/VennB3/VennB3.pg"/>
+</exercise>
+<exercise xml:id="VennB4">
+<introduction><p>Description: Library/SDSU/Discrete/Sets/VennB4</p></introduction>
+<webwork source="Library/SDSU/Discrete/Sets/VennB4/VennB4.pg"/>
+</exercise>
+<exercise xml:id="VennB5">
+<introduction><p>Description: Library/SDSU/Discrete/Sets/VennB5</p></introduction>
+<webwork source="Library/SDSU/Discrete/Sets/VennB5/VennB5.pg"/>
+</exercise>
+<exercise xml:id="VennB6">
+<introduction><p>Description: Library/SDSU/Discrete/Sets/VennB6</p></introduction>
+<webwork source="Library/SDSU/Discrete/Sets/VennB6/VennB6.pg"/>
+</exercise>
+<exercise xml:id="VennB7">
+<introduction><p>Description: Library/SDSU/Discrete/Sets/VennB7</p></introduction>
+<webwork source="Library/SDSU/Discrete/Sets/VennB7/VennB7.pg"/>
+</exercise>
+<exercise xml:id="VennB8">
+<introduction><p>Description: Library/SDSU/Discrete/Sets/VennB8</p></introduction>
+<webwork source="Library/SDSU/Discrete/Sets/VennB8/VennB8.pg"/>
+</exercise>
+<exercise xml:id="VennB9">
+<introduction><p>Description: Library/SDSU/Discrete/Sets/VennB9</p></introduction>
+<webwork source="Library/SDSU/Discrete/Sets/VennB9/VennB9.pg"/>
+</exercise>
+ </exercises>
+ </section>
+<section xml:id="s-1-3">
+<title>Cartesian Products and Power Sets</title>
+<exercises>
+<exercise xml:id="katie1-6_1-pg">
+<introduction><p>Description: Library/ASU-topics/setDiscrete/katie1.6_1.pg</p></introduction>
+<webwork source="Library/ASU-topics/setDiscrete/katie1.6_1.pg"/>
+</exercise>
+<exercise xml:id="cartesianprodB3-pg">
+<introduction><p>Description: Library/SDSU/Discrete/Sets/cartesianprodB3.pg</p></introduction>
+<webwork source="Library/SDSU/Discrete/Sets/cartesianprodB3.pg"/>
+</exercise>
+<exercise xml:id="cartesianprodB4-pg">
+<introduction><p>Description: Library/SDSU/Discrete/Sets/cartesianprodB4.pg</p></introduction>
+<webwork source="Library/SDSU/Discrete/Sets/cartesianprodB4.pg"/>
+</exercise>
+<exercise xml:id="cartesianprodB5-pg">
+<introduction><p>Description: Library/SDSU/Discrete/Sets/cartesianprodB5.pg</p></introduction>
+<webwork source="Library/SDSU/Discrete/Sets/cartesianprodB5.pg"/>
+</exercise>
+</exercises>
+</section>
+<section xml:id="s-1-4">
+<title>Binary Representation of Positive Integers</title>
+<exercises>
+<exercise xml:id="ur_dis_6_10-pg">
+<introduction><p>Description: Library/Rochester/setDiscrete6Integers/ur_dis_6_10.pg</p></introduction>
+<webwork source="Library/Rochester/setDiscrete6Integers/ur_dis_6_10.pg"/>
+</exercise>
+<exercise xml:id="ur_dis_6_11-pg">
+<introduction><p>Description: Library/Rochester/setDiscrete6Integers/ur_dis_6_11.pg</p></introduction>
+<webwork source="Library/Rochester/setDiscrete6Integers/ur_dis_6_11.pg"/>
+</exercise>
+<exercise xml:id="ur_dis_6_13-pg">
+<introduction><p>Description: Library/Rochester/setDiscrete6Integers/ur_dis_6_13.pg</p></introduction>
+<webwork source="Library/Rochester/setDiscrete6Integers/ur_dis_6_13.pg"/>
+</exercise>
+<exercise xml:id="katie1-7_1-pg">
+<introduction><p>Description: Library/ASU-topics/setDiscrete/katie1.7_1.pg</p></introduction>
+<webwork source="Library/ASU-topics/setDiscrete/katie1.7_1.pg"/>
+</exercise>
+<exercise xml:id="katie1-7_2-pg">
+<introduction><p>Description: Library/ASU-topics/setDiscrete/katie1.7_2.pg</p></introduction>
+<webwork source="Library/ASU-topics/setDiscrete/katie1.7_2.pg"/>
+</exercise>
+</exercises>
+</section>
+<section xml:id="s-1-5">
+<title>Summation Notation and Generalizations</title>
+<exercises>
+<exercise><p>Working with sums.</p>
+    <webwork>
+        <statement>
+            <p>
+                <m>(\sum_{k=2}^{20} k^2)-(\sum_{k=1}^{19} k^2)=</m><var name="399" width="10" />
+            </p>
+            <p>
+					<m>\sum_{k=1}^{10} {(k^3 - (k-1)^3)}=</m><var name="999" width="10" />
+				</p>
+        </statement>
+    </webwork>
+ </exercise>
+ </exercises>
+ </section>
+</chapter>	

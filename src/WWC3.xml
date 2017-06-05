@@ -1,0 +1,316 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<chapter xml:id="chapter_3" xmlns:xi="http://www.w3.org/2001/XInclude">
+<title>Logic</title>
+<introduction><p></p>
+</introduction>
+<section xml:id="s-3-1">
+<title>Propositions and Logical Operators</title>
+<exercises>
+<exercise xml:id="formallogicA1-pg">
+<introduction><p>Description: Library/SDSU/Discrete/Logic/formallogicA1.pg</p></introduction>
+<webwork source="Library/SDSU/Discrete/Logic/formallogicA1.pg"/>
+</exercise>
+<exercise xml:id="formallogicA2-pg">
+<introduction><p>Description: Library/SDSU/Discrete/Logic/formallogicA2.pg</p></introduction>
+<webwork source="Library/SDSU/Discrete/Logic/formallogicA2.pg"/>
+</exercise>
+<exercise xml:id="formallogicB24-pg">
+<introduction><p>Description: Library/SDSU/Discrete/Logic/formallogicB24.pg</p></introduction>
+<webwork source="Library/SDSU/Discrete/Logic/formallogicB24.pg"/>
+</exercise>
+<exercise xml:id="formallogicB3-pg">
+<introduction><p>Description: Library/SDSU/Discrete/Logic/formallogicB3.pg</p></introduction>
+<webwork source="Library/SDSU/Discrete/Logic/formallogicB3.pg"/>
+</exercise>
+
+</exercises>
+</section>
+
+<section xml:id="s-3-2">
+<title>Truth Tables</title>
+<exercises>
+<exercise xml:id="katie3-pg">
+<introduction><p>Description: Library/ASU-topics/setDiscrete/katie3.pg</p></introduction>
+<webwork source="Library/ASU-topics/setDiscrete/katie3.pg"/>
+</exercise>
+<exercise xml:id="formallogicB4-pg">
+<introduction><p>Description: Library/SDSU/Discrete/Logic/formallogicB4.pg</p></introduction>
+<webwork source="Library/SDSU/Discrete/Logic/formallogicB4.pg"/>
+</exercise>
+<exercise xml:id="ttlogicequivA7-pg">
+<introduction><p>Description: Library/SDSU/Discrete/Logic/ttlogicequivA7.pg</p></introduction>
+<webwork source="Library/SDSU/Discrete/Logic/ttlogicequivA7.pg"/>
+</exercise>
+<exercise xml:id="ttlogicequivA8-pg">
+<introduction><p>Description: Library/SDSU/Discrete/Logic/ttlogicequivA8.pg</p></introduction>
+<webwork source="Library/SDSU/Discrete/Logic/ttlogicequivA8.pg"/>
+</exercise>
+<exercise xml:id="katie4-pg">
+<introduction><p>Description: Library/ASU-topics/setDiscrete/katie4.pg</p></introduction>
+<webwork source="Library/ASU-topics/setDiscrete/katie4.pg"/>
+</exercise>
+<exercise xml:id="katie5-pg">
+<introduction><p>Description: Library/ASU-topics/setDiscrete/katie5.pg</p></introduction>
+<webwork source="Library/ASU-topics/setDiscrete/katie5.pg"/>
+</exercise>
+
+</exercises>
+ </section>
+ 
+<section xml:id="s-3-3">
+<title>Equivalence and Implication</title>
+<exercises>
+<exercise xml:id="formallogicB20-pg">
+<introduction><p>Description: Library/SDSU/Discrete/Logic/formallogicB20.pg</p></introduction>
+<webwork source="Library/SDSU/Discrete/Logic/formallogicB20.pg"/>
+</exercise>
+<exercise xml:id="ttlogicequivA5-pg">
+<introduction><p>Description: Library/SDSU/Discrete/Logic/ttlogicequivA5.pg</p></introduction>
+<webwork source="Library/SDSU/Discrete/Logic/ttlogicequivA5.pg"/>
+</exercise>
+<exercise xml:id="montana_1-1A5Equiv-pg">
+<introduction><p>Description:  Library/MontanaState/Equivalence/1.1A5Equiv.pg</p></introduction>
+<webwork source="Library/MontanaState/Equivalence/1.1A5Equiv.pg"/>
+</exercise>
+<exercise xml:id="ttcontratautA3-pg">
+<introduction><p>Description: Library/SDSU/Discrete/Logic/ttcontratautA3.pg</p></introduction>
+<webwork source="Library/SDSU/Discrete/Logic/ttcontratautA3.pg"/>
+</exercise>
+<exercise xml:id="montana_1-5B13Equiv1-pg">
+<introduction><p>Description:  Library/MontanaState/Equivalence/1.5B13Equiv1.pg</p></introduction>
+<webwork source="Library/MontanaState/Equivalence/1.5B13Equiv1.pg"/>
+</exercise>
+<exercise xml:id="montana_1-5B13Equiv2-pg">
+<introduction><p>Description:  Library/MontanaState/Equivalence/1.5B13Equiv2.pg</p></introduction>
+<webwork source="Library/MontanaState/Equivalence/1.5B13Equiv2.pg"/>
+</exercise>
+<exercise xml:id="montana_1-5B14Equiv1-pg">
+<introduction><p>Description:  Library/MontanaState/Equivalence/1.5B14Equiv1.pg</p></introduction>
+<webwork source="Library/MontanaState/Equivalence/1.5B14Equiv1.pg"/>
+</exercise>
+<exercise xml:id="montana_Equiv2-pg">
+<introduction><p>Description:  Library/MontanaState/Equivalence/Equiv2.pg</p></introduction>
+<webwork source="Library/MontanaState/Equivalence/Equiv2.pg"/>
+</exercise>
+<exercise xml:id="montana_1-1A5Equiv2-pg">
+<introduction><p>Description:  Library/MontanaState/Equivalence/1.1A5Equiv2.pg</p></introduction>
+<webwork source="Library/MontanaState/Equivalence/1.1A5Equiv2.pg"/>
+</exercise>
+<exercise xml:id="ttcontratautB5-pg">
+<introduction><p>Description: Library/SDSU/Discrete/Logic/ttcontratautB5.pg</p></introduction>
+<webwork source="Library/SDSU/Discrete/Logic/ttcontratautB5.pg"/>
+</exercise>
+<exercise xml:id="ttcontratautB6-pg">
+<introduction><p>Description: Library/SDSU/Discrete/Logic/ttcontratautB6.pg</p></introduction>
+<webwork source="Library/SDSU/Discrete/Logic/ttcontratautB6.pg"/>
+</exercise>
+<exercise xml:id="ttlogicequivA10-pg">
+<introduction><p>Description: Library/SDSU/Discrete/Logic/ttlogicequivA10.pg</p></introduction>
+<webwork source="Library/SDSU/Discrete/Logic/ttlogicequivA10.pg"/>
+</exercise>
+<exercise xml:id="ttlogicequivA1-pg">
+<introduction><p>Description: Library/SDSU/Discrete/Logic/ttlogicequivA1.pg</p></introduction>
+<webwork source="Library/SDSU/Discrete/Logic/ttlogicequivA1.pg"/>
+</exercise>
+<exercise xml:id="ttlogicequivA9-pg">
+<introduction><p>Description: Library/SDSU/Discrete/Logic/ttlogicequivA9.pg</p></introduction>
+<webwork source="Library/SDSU/Discrete/Logic/ttlogicequivA9.pg"/>
+</exercise>
+<exercise xml:id="ttlogicequivB2-pg">
+<introduction><p>Description: Library/SDSU/Discrete/Logic/ttlogicequivB2.pg</p></introduction>
+<webwork source="Library/SDSU/Discrete/Logic/ttlogicequivB2.pg"/>
+</exercise>
+<exercise xml:id="ttlogicequivB3-pg">
+<introduction><p>Description: Library/SDSU/Discrete/Logic/ttlogicequivB3.pg</p></introduction>
+<webwork source="Library/SDSU/Discrete/Logic/ttlogicequivB3.pg"/>
+</exercise>
+
+ </exercises>
+ </section>
+
+<section xml:id="s-3-4">
+<title>The Laws of Logic</title>
+<exercises>
+<exercise xml:id="formallogicA18-pg">
+<introduction><p>Description: Library/SDSU/Discrete/Logic/formallogicA18.pg</p></introduction>
+<webwork source="Library/SDSU/Discrete/Logic/formallogicA18.pg"/>
+</exercise>
+<exercise xml:id="ttlogicequivA6-pg">
+<introduction><p>Description: Library/SDSU/Discrete/Logic/ttlogicequivA6.pg</p></introduction>
+<webwork source="Library/SDSU/Discrete/Logic/ttlogicequivA6.pg"/>
+</exercise>
+<exercise xml:id="formallogicA19-pg">
+<introduction><p>Description: Library/SDSU/Discrete/Logic/formallogicA19.pg</p></introduction>
+<webwork source="Library/SDSU/Discrete/Logic/formallogicA19.pg"/>
+</exercise>
+<exercise xml:id="formallogicB23-pg">
+<introduction><p>Description: Library/SDSU/Discrete/Logic/formallogicB23.pg</p></introduction>
+<webwork source="Library/SDSU/Discrete/Logic/formallogicB23.pg"/>
+</exercise>
+<exercise xml:id="formallogicB10-pg">
+<introduction><p>Description: Library/SDSU/Discrete/Logic/formallogicB10.pg</p></introduction>
+<webwork source="Library/SDSU/Discrete/Logic/formallogicB10.pg"/>
+</exercise>
+<exercise xml:id="formallogicB7-pg">
+<introduction><p>Description: Library/SDSU/Discrete/Logic/formallogicB7.pg</p></introduction>
+<webwork source="Library/SDSU/Discrete/Logic/formallogicB7.pg"/>
+</exercise>
+<exercise xml:id="formallogicB11-pg">
+<introduction><p>Description: Library/SDSU/Discrete/Logic/formallogicB11.pg</p></introduction>
+<webwork source="Library/SDSU/Discrete/Logic/formallogicB11.pg"/>
+</exercise>
+<exercise xml:id="ttcontratautB1-pg">
+<introduction><p>Description: Library/SDSU/Discrete/Logic/ttcontratautB1.pg</p></introduction>
+<webwork source="Library/SDSU/Discrete/Logic/ttcontratautB1.pg"/>
+</exercise>
+<exercise xml:id="ttcontratautB2-pg">
+<introduction><p>Description: Library/SDSU/Discrete/Logic/ttcontratautB2.pg</p></introduction>
+<webwork source="Library/SDSU/Discrete/Logic/ttcontratautB2.pg"/>
+</exercise>
+<exercise xml:id="ttcontratautB4-pg">
+<introduction><p>Description: Library/SDSU/Discrete/Logic/ttcontratautB4.pg</p></introduction>
+<webwork source="Library/SDSU/Discrete/Logic/ttcontratautB4.pg"/>
+</exercise>
+<exercise xml:id="formallogicB14-pg">
+<introduction><p>Description: Library/SDSU/Discrete/Logic/formallogicB14.pg</p></introduction>
+<webwork source="Library/SDSU/Discrete/Logic/formallogicB14.pg"/>
+</exercise>
+<exercise xml:id="formallogicB15-pg">
+<introduction><p>Description: Library/SDSU/Discrete/Logic/formallogicB15.pg</p></introduction>
+<webwork source="Library/SDSU/Discrete/Logic/formallogicB15.pg"/>
+</exercise>
+<exercise xml:id="formallogicB16-pg">
+<introduction><p>Description: Library/SDSU/Discrete/Logic/formallogicB16.pg</p></introduction>
+<webwork source="Library/SDSU/Discrete/Logic/formallogicB16.pg"/>
+</exercise>
+<exercise xml:id="formallogicB17-pg">
+<introduction><p>Description: Library/SDSU/Discrete/Logic/formallogicB17.pg</p></introduction>
+<webwork source="Library/SDSU/Discrete/Logic/formallogicB17.pg"/>
+</exercise>
+
+ </exercises>
+ </section>
+
+<section xml:id="s-3-5">
+<title>Mathematical Systems</title>
+<exercises>
+ </exercises>
+ </section>
+
+<section xml:id="s-3-6">
+<title>Propositions over a Universe¶ permalink</title>
+<exercises>
+
+ </exercises>
+ </section>
+ 
+<section xml:id="s-3-7">
+<title>Mathematical Induction</title>
+<exercises>
+
+ </exercises>
+ </section>
+
+<section xml:id="s-3-8">
+<title>Quantifiers</title>
+<exercises>
+<exercise xml:id="katie6-pg">
+<introduction><p>Description: Library/ASU-topics/setDiscrete/katie6.pg</p></introduction>
+<webwork source="Library/ASU-topics/setDiscrete/katie6.pg"/>
+</exercise>
+<exercise xml:id="Katie8-pg">
+<introduction><p>Description: Library/ASU-topics/setDiscrete/Katie8.pg</p></introduction>
+<webwork source="Library/ASU-topics/setDiscrete/Katie8.pg"/>
+</exercise>
+
+<exercise xml:id="negateB1-pg">
+<introduction><p>Description: Library/SDSU/Discrete/Predicates/negateB1.pg</p></introduction>
+<webwork source="Library/SDSU/Discrete/Predicates/negateB1.pg"/>
+</exercise>
+<exercise xml:id="negateB2-pg">
+<introduction><p>Description: Library/SDSU/Discrete/Predicates/negateB2.pg</p></introduction>
+<webwork source="Library/SDSU/Discrete/Predicates/negateB2.pg"/>
+</exercise>
+<exercise xml:id="negateB3-pg">
+<introduction><p>Description: Library/SDSU/Discrete/Predicates/negateB3.pg</p></introduction>
+<webwork source="Library/SDSU/Discrete/Predicates/negateB3.pg"/>
+</exercise>
+<exercise xml:id="predicateA1-pg">
+<introduction><p>Description: Library/SDSU/Discrete/Predicates/predicateA1.pg</p></introduction>
+<webwork source="Library/SDSU/Discrete/Predicates/predicateA1.pg"/>
+</exercise>
+<exercise xml:id="predicateA2-pg">
+<introduction><p>Description: Library/SDSU/Discrete/Predicates/predicateA2.pg</p></introduction>
+<webwork source="Library/SDSU/Discrete/Predicates/predicateA2.pg"/>
+</exercise>
+<exercise xml:id="predicateA3-pg">
+<introduction><p>Description: Library/SDSU/Discrete/Predicates/predicateA3.pg</p></introduction>
+<webwork source="Library/SDSU/Discrete/Predicates/predicateA3.pg"/>
+</exercise>
+<exercise xml:id="predicateB4-pg">
+<introduction><p>Description: Library/SDSU/Discrete/Predicates/predicateB4.pg</p></introduction>
+<webwork source="Library/SDSU/Discrete/Predicates/predicateB4.pg"/>
+</exercise>
+<exercise xml:id="predicateB5-pg">
+<introduction><p>Description: Library/SDSU/Discrete/Predicates/predicateB5.pg</p></introduction>
+<webwork source="Library/SDSU/Discrete/Predicates/predicateB5.pg"/>
+</exercise>
+<exercise xml:id="katie1-pg">
+<introduction><p>Description: Library/ASU-topics/setDiscrete/katie1.pg</p></introduction>
+<webwork source="Library/ASU-topics/setDiscrete/katie1.pg"/>
+</exercise>
+<exercise xml:id="predicateB6-pg">
+<introduction><p>Description: Library/SDSU/Discrete/Predicates/predicateB6.pg</p></introduction>
+<webwork source="Library/SDSU/Discrete/Predicates/predicateB6.pg"/>
+</exercise>
+<exercise xml:id="predicateB7-pg">
+<introduction><p>Description: Library/SDSU/Discrete/Predicates/predicateB7.pg</p></introduction>
+<webwork source="Library/SDSU/Discrete/Predicates/predicateB7.pg"/>
+</exercise>
+<exercise xml:id="predicateB8-pg">
+<introduction><p>Description: Library/SDSU/Discrete/Predicates/predicateB8.pg</p></introduction>
+<webwork source="Library/SDSU/Discrete/Predicates/predicateB8.pg"/>
+</exercise>
+<exercise xml:id="predicateB9-pg">
+<introduction><p>Description: Library/SDSU/Discrete/Predicates/predicateB9.pg</p></introduction>
+<webwork source="Library/SDSU/Discrete/Predicates/predicateB9.pg"/>
+</exercise>
+<exercise xml:id="translateB1-pg">
+<introduction><p>Description: Library/SDSU/Discrete/Predicates/translateB1.pg</p></introduction>
+<webwork source="Library/SDSU/Discrete/Predicates/translateB1.pg"/>
+</exercise>
+<exercise xml:id="translateB2-pg">
+<introduction><p>Description: Library/SDSU/Discrete/Predicates/translateB2.pg</p></introduction>
+<webwork source="Library/SDSU/Discrete/Predicates/translateB2.pg"/>
+</exercise>
+<exercise xml:id="translateB3-pg">
+<introduction><p>Description: Library/SDSU/Discrete/Predicates/translateB3.pg</p></introduction>
+<webwork source="Library/SDSU/Discrete/Predicates/translateB3.pg"/>
+</exercise>
+<exercise xml:id="katie1-4_1-pg">
+<introduction><p>Description: Library/ASU-topics/setDiscrete/katie1.4_1.pg</p></introduction>
+<webwork source="Library/ASU-topics/setDiscrete/katie1.4_1.pg"/>
+</exercise>
+<exercise xml:id="katie1-4_2-pg">
+<introduction><p>Description: Library/ASU-topics/setDiscrete/katie1.4_2.pg</p></introduction>
+<webwork source="Library/ASU-topics/setDiscrete/katie1.4_2.pg"/>
+</exercise>
+<exercise xml:id="katie1-4_3-pg">
+<introduction><p>Description: Library/ASU-topics/setDiscrete/katie1.4_3.pg</p></introduction>
+<webwork source="Library/ASU-topics/setDiscrete/katie1.4_3.pg"/>
+</exercise>
+ </exercises>
+ </section>
+
+<section xml:id="s-3-9">
+<title>A Review of Methods of Proof</title>
+<exercises>
+<exercise xml:id="formallogicB21-pg">
+<introduction><p>Description: Library/SDSU/Discrete/Logic/formallogicB21.pg</p></introduction>
+<webwork source="Library/SDSU/Discrete/Logic/formallogicB21.pg"/>
+</exercise>
+
+</exercises>
+ </section> 
+ 
+</chapter>	

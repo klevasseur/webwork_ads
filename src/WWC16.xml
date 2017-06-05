@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<chapter xml:id="chapter_16" xmlns:xi="http://www.w3.org/2001/XInclude">
+<title>An Introduction to Rings and Fields</title>
+<introduction>
+<p>In our early elementary school days we began the study of mathematics by learning addition and multiplication on the set of positive integers. We then extended this to operations on the set of all integers. Subtraction and division are defined in terms of addition and multiplication. Later we investigated the set of real numbers under the operations of addition and multiplication. Hence, it is quite natural to investigate those structures on which we can define these two fundamental operations, or operations similar to them. The structures similar to the set of integers are called rings, and those similar to the set of real numbers are called fields.</p>
+</introduction>
+<section xml:id="s-16-1">
+<title>Section 16-1 - Rings</title>
+<exercises>
+<exercise xml:id="RingsDefinition1-pg">
+<introduction><p>Description</p></introduction>
+<webwork source="Library/UMass-Amherst/Abstract-Algebra/PS-RingsDefinition/RingsDefinition1.pg"/>
+</exercise>
+<exercise xml:id="RingsDefinition2-pg">
+<introduction><p>Description</p></introduction>
+<webwork source="Library/UMass-Amherst/Abstract-Algebra/PS-RingsDefinition/RingsDefinition2.pg"/>
+</exercise>
+<exercise xml:id="RingsDefinition3-pg">
+<introduction><p>Description</p></introduction>
+<webwork source="Library/UMass-Amherst/Abstract-Algebra/PS-RingsDefinition/RingsDefinition3.pg"/>
+</exercise>
+<exercise xml:id="RingsDefinition4-pg">
+<introduction><p>Description</p></introduction>
+<webwork source="Library/UMass-Amherst/Abstract-Algebra/PS-RingsDefinition/RingsDefinition4.pg"/>
+</exercise>
+<exercise xml:id="RingsDefinition5-pg">
+<introduction><p>Description</p></introduction>
+<webwork source="Library/UMass-Amherst/Abstract-Algebra/PS-RingsDefinition/RingsDefinition5.pg"/>
+</exercise>
+<exercise xml:id="RingsDefinition6-pg">
+<introduction><p>Description</p></introduction>
+<webwork source="Library/UMass-Amherst/Abstract-Algebra/PS-RingsDefinition/RingsDefinition6.pg"/>
+</exercise>
+<exercise xml:id="RingsDefinition7-pg">
+<introduction><p>Description</p></introduction>
+<webwork source="Library/UMass-Amherst/Abstract-Algebra/PS-RingsDefinition/RingsDefinition7.pg"/>
+</exercise>
+<exercise xml:id="RingsDefinition8-pg">
+<introduction><p>Description</p></introduction>
+<webwork source="Library/UMass-Amherst/Abstract-Algebra/PS-RingsDefinition/RingsDefinition8.pg"/>
+</exercise>
+<exercise xml:id="RingsDefinition9-pg">
+<introduction><p>Description</p></introduction>
+<webwork source="Library/UMass-Amherst/Abstract-Algebra/PS-RingsDefinition/RingsDefinition9.pg"/>
+</exercise>
+<exercise xml:id="RingsDefinition10-pg">
+<introduction><p>Description</p></introduction>
+<webwork source="Library/UMass-Amherst/Abstract-Algebra/PS-RingsDefinition/RingsDefinition10.pg"/>
+</exercise>
+<exercise xml:id="RingsDefinition11-pg">
+<introduction><p>Description</p></introduction>
+<webwork source="Library/UMass-Amherst/Abstract-Algebra/PS-RingsDefinition/RingsDefinition11.pg"/>
+</exercise>
+<exercise xml:id="RingsDefinition12-pg">
+<introduction><p>Description</p></introduction>
+<webwork source="Library/UMass-Amherst/Abstract-Algebra/PS-RingsDefinition/RingsDefinition12.pg"/>
+</exercise>
+ </exercises>
+ </section>
+
+<section xml:id="s-16-2">
+<title>Section 16-2: </title>
+<exercises>
+<exercise xml:id="RingsIdealsHomomorphisms1-pg">
+<introduction><p>Description</p></introduction>
+<webwork source="Library/UMass-Amherst/Abstract-Algebra/PS-RingsIdealsHomomorphisms/RingsIdealsHomomorphisms1.pg"/>
+</exercise>
+<exercise xml:id="RingsIdealsHomomorphisms2-pg">
+<introduction><p>Description</p></introduction>
+<webwork source="Library/UMass-Amherst/Abstract-Algebra/PS-RingsIdealsHomomorphisms/RingsIdealsHomomorphisms2.pg"/>
+</exercise>
+<exercise xml:id="RingsIdealsHomomorphisms3-pg">
+<introduction><p>Description</p></introduction>
+<webwork source="Library/UMass-Amherst/Abstract-Algebra/PS-RingsIdealsHomomorphisms/RingsIdealsHomomorphisms3.pg"/>
+</exercise>
+<exercise xml:id="RingsIdealsHomomorphisms4-pg">
+<introduction><p>Description</p></introduction>
+<webwork source="Library/UMass-Amherst/Abstract-Algebra/PS-RingsIdealsHomomorphisms/RingsIdealsHomomorphisms4.pg"/>
+</exercise>
+<exercise xml:id="RingsIdealsHomomorphisms5-pg">
+<introduction><p>Description</p></introduction>
+<webwork source="Library/UMass-Amherst/Abstract-Algebra/PS-RingsIdealsHomomorphisms/RingsIdealsHomomorphisms5.pg"/>
+</exercise>
+<exercise xml:id="RingsIdealsHomomorphisms6-pg">
+<introduction><p>Description</p></introduction>
+<webwork source="Library/UMass-Amherst/Abstract-Algebra/PS-RingsIdealsHomomorphisms/RingsIdealsHomomorphisms6.pg"/>
+</exercise>
+<exercise xml:id="RingsIdealsHomomorphisms7-pg">
+<introduction><p>Description</p></introduction>
+<webwork source="Library/UMass-Amherst/Abstract-Algebra/PS-RingsIdealsHomomorphisms/RingsIdealsHomomorphisms7.pg"/>
+</exercise>
+<exercise xml:id="RingsIdealsHomomorphisms8-pg">
+<introduction><p>Description</p></introduction>
+<webwork source="Library/UMass-Amherst/Abstract-Algebra/PS-RingsIdealsHomomorphisms/RingsIdealsHomomorphisms8.pg"/>
+</exercise>
+
+ </exercises>
+ </section>
+
+<section xml:id="s-16-3">
+<title>Section 16-3: Fields </title>
+<exercises>
+<exercise xml:id="Fields1-pg">
+<introduction><p>Description</p></introduction>
+<webwork source="Library/UMass-Amherst/Abstract-Algebra/PS-Fields/Fields1.pg"/>
+</exercise>
+<exercise xml:id="Fields2-pg">
+<introduction><p>Description</p></introduction>
+<webwork source="Library/UMass-Amherst/Abstract-Algebra/PS-Fields/Fields2.pg"/>
+</exercise>
+<exercise xml:id="Fields3-pg">
+<introduction><p>Description</p></introduction>
+<webwork source="Library/UMass-Amherst/Abstract-Algebra/PS-Fields/Fields3.pg"/>
+</exercise>
+<exercise xml:id="Fields4-pg">
+<introduction><p>Description</p></introduction>
+<webwork source="Library/UMass-Amherst/Abstract-Algebra/PS-Fields/Fields4.pg"/>
+</exercise>
+<exercise xml:id="Fields5-pg">
+<introduction><p>Description</p></introduction>
+<webwork source="Library/UMass-Amherst/Abstract-Algebra/PS-Fields/Fields5.pg"/>
+</exercise>
+<exercise xml:id="Fields6-pg">
+<introduction><p>Description</p></introduction>
+<webwork source="Library/UMass-Amherst/Abstract-Algebra/PS-Fields/Fields6.pg"/>
+</exercise>
+<exercise xml:id="Fields7-pg">
+<introduction><p>Description</p></introduction>
+<webwork source="Library/UMass-Amherst/Abstract-Algebra/PS-Fields/Fields7.pg"/>
+</exercise>
+
+ </exercises>
+ </section>
+ 
+
+<section xml:id="s-16-4">
+<title>Section 16-4: Polynomials </title>
+<exercises>
+<exercise xml:id="RingsQuotientsPolynomials1-pg">
+<introduction><p>Description</p></introduction>
+<webwork source="Library/UMass-Amherst/Abstract-Algebra/PS-RingsQuotientsPolynomials/RingsQuotientsPolynomials1.pg"/>
+</exercise>
+<exercise xml:id="RingsQuotientsPolynomials2-pg">
+<introduction><p>Description</p></introduction>
+<webwork source="Library/UMass-Amherst/Abstract-Algebra/PS-RingsQuotientsPolynomials/RingsQuotientsPolynomials2.pg"/>
+</exercise>
+<exercise xml:id="RingsQuotientsPolynomials3-pg">
+<introduction><p>Description</p></introduction>
+<webwork source="Library/UMass-Amherst/Abstract-Algebra/PS-RingsQuotientsPolynomials/RingsQuotientsPolynomials3.pg"/>
+</exercise>
+<exercise xml:id="RingsQuotientsPolynomials4-pg">
+<introduction><p>Description</p></introduction>
+<webwork source="Library/UMass-Amherst/Abstract-Algebra/PS-RingsQuotientsPolynomials/RingsQuotientsPolynomials4.pg"/>
+</exercise>
+<exercise xml:id="RingsQuotientsPolynomials5-pg">
+<introduction><p>Description</p></introduction>
+<webwork source="Library/UMass-Amherst/Abstract-Algebra/PS-RingsQuotientsPolynomials/RingsQuotientsPolynomials5.pg"/>
+</exercise>
+<exercise xml:id="RingsQuotientsPolynomials6-pg">
+<introduction><p>Description</p></introduction>
+<webwork source="Library/UMass-Amherst/Abstract-Algebra/PS-RingsQuotientsPolynomials/RingsQuotientsPolynomials6.pg"/>
+</exercise>
+<exercise xml:id="RingsQuotientsPolynomials7-pg">
+<introduction><p>Description</p></introduction>
+<webwork source="Library/UMass-Amherst/Abstract-Algebra/PS-RingsQuotientsPolynomials/RingsQuotientsPolynomials7.pg"/>
+</exercise>
+
+ </exercises>
+ </section>
+ 
+</chapter>	

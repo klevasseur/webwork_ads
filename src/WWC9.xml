@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<chapter xml:id="chapter_9" xmlns:xi="http://www.w3.org/2001/XInclude">
+<title>Graph Theory</title>
+<introduction>
+<p>This chapter has three principal goals. First, we will identify the basic components of a graph and some of the features that many graphs have. Second, we will discuss some of the questions that are most commonly asked of graphs. Third, we want to make the reader aware of how graphs
+are used. In Section 9.1, we will discuss these topics in general, and in later sections we will take a closer look
+at selected topics in graph theory.</p>
+</introduction>
+
+<section xml:id="s-9-5">
+<title>Section 9.5</title>
+<exercises>
+<exercise  xml:id="ww-coloring-2">
+          <introduction><p>Graph Coloring WeBWork Exercise</p></introduction>
+      <webwork source="Library/NAU/setGraphTheory/KnownChromatic.pg" />
+</exercise>
+ </exercises>
+ </section>
+</chapter>	

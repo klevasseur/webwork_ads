@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<chapter xml:id="chapter_15" xmlns:xi="http://www.w3.org/2001/XInclude">
+<title>Group Theory and Applications</title>
+<introduction>
+<p>In Chapter 11, we introduced groups as a typical algebraic system. The associated concepts of subgroup, group isomorphism, and direct products of groups were also introduced. Groups were chosen for that chapter because they are among the simplest types of algebraic systems. Despite this simplicity, group theory abounds with interesting applications. In this chapter we will introduce some more important concepts in elementary group theory, and some of their applications.
+</p>  
+</introduction> 
+
+<section xml:id="s-15-1">
+<title>Section 15-1 - Cyclic Groups</title>
+<exercises>
+<exercise xml:id="CyclicGroups1-pg">
+<introduction><p>Description</p></introduction>
+<webwork source="Library/UMass-Amherst/Abstract-Algebra/PS-CyclicGroups/CyclicGroups1.pg" />
+</exercise>
+<exercise xml:id="CyclicGroups2-pg">
+<introduction><p>Description</p></introduction>
+<webwork source="Library/UMass-Amherst/Abstract-Algebra/PS-CyclicGroups/CyclicGroups2.pg" />
+</exercise>
+<exercise xml:id="CyclicGroups3-pg">
+<introduction><p>Description</p></introduction>
+<webwork source="Library/UMass-Amherst/Abstract-Algebra/PS-CyclicGroups/CyclicGroups3.pg" />
+</exercise>
+<exercise xml:id="CyclicGroups4-pg">
+<introduction><p>Description</p></introduction>
+<webwork source="Library/UMass-Amherst/Abstract-Algebra/PS-CyclicGroups/CyclicGroups4.pg" />
+</exercise>
+<exercise xml:id="CyclicGroups5-pg">
+<introduction><p>Description</p></introduction>
+<webwork source="Library/UMass-Amherst/Abstract-Algebra/PS-CyclicGroups/CyclicGroups5.pg" />
+</exercise>
+<exercise xml:id="CyclicGroups6-pg">
+<introduction><p>Description</p></introduction>
+<webwork source="Library/UMass-Amherst/Abstract-Algebra/PS-CyclicGroups/CyclicGroups6.pg" />
+</exercise>
+<exercise xml:id="CyclicGroups7-pg">
+<introduction><p>Description</p></introduction>
+<webwork source="Library/UMass-Amherst/Abstract-Algebra/PS-CyclicGroups/CyclicGroups7.pg" />
+</exercise>
+<exercise xml:id="CyclicGroups8-pg">
+<introduction><p>Description</p></introduction>
+<webwork source="Library/UMass-Amherst/Abstract-Algebra/PS-CyclicGroups/CyclicGroups8.pg" />
+</exercise>
+<exercise xml:id="CyclicGroups9-pg">
+<introduction><p>Description</p></introduction>
+<webwork source="Library/UMass-Amherst/Abstract-Algebra/PS-CyclicGroups/CyclicGroups9.pg" />
+</exercise>
+<exercise xml:id="CyclicGroups10-pg">
+<introduction><p>Description</p></introduction>
+<webwork source="Library/UMass-Amherst/Abstract-Algebra/PS-CyclicGroups/CyclicGroups10.pg" />
+</exercise>
+
+ </exercises>
+ </section>
+
+<section xml:id="s-15-2">
+<title>Section 15-2: Cosets and Factor Groups</title>
+<exercises>
+<exercise xml:id="Cosets5-pg">
+<introduction><p>Description</p></introduction>
+<webwork source="Library/UMass-Amherst/Abstract-Algebra/PS-Cosets/Cosets5.pg" />
+</exercise>
+ </exercises>
+ </section>
+
+
+<section xml:id="s-15-3">
+<title>Section 15-3:  Permutations</title>
+<exercises>
+<exercise xml:id="Permutations1-pg">
+<introduction><p>Description</p></introduction>
+<webwork source="Library/UMass-Amherst/Abstract-Algebra/PS-Permutations/Permutations1.pg" />
+</exercise>
+<exercise xml:id="Permutations2-pg">
+<introduction><p>Description</p></introduction>
+<webwork source="Library/UMass-Amherst/Abstract-Algebra/PS-Permutations/Permutations2.pg" />
+</exercise>
+<exercise xml:id="Permutations3-pg">
+<introduction><p>Description</p></introduction>
+<webwork source="Library/UMass-Amherst/Abstract-Algebra/PS-Permutations/Permutations3.pg" />
+</exercise>
+<exercise xml:id="Permutations4-pg">
+<introduction><p>Description</p></introduction>
+<webwork source="Library/UMass-Amherst/Abstract-Algebra/PS-Permutations/Permutations4.pg" />
+</exercise>
+<exercise xml:id="Permutations5-pg">
+<introduction><p>Description</p></introduction>
+<webwork source="Library/UMass-Amherst/Abstract-Algebra/PS-Permutations/Permutations5.pg" />
+</exercise>
+<exercise xml:id="Permutations6-pg">
+<introduction><p>Description</p></introduction>
+<webwork source="Library/UMass-Amherst/Abstract-Algebra/PS-Permutations/Permutations6.pg" />
+</exercise>
+<exercise xml:id="Permutations7-pg">
+<introduction><p>Description</p></introduction>
+<webwork source="Library/UMass-Amherst/Abstract-Algebra/PS-Permutations/Permutations7.pg" />
+</exercise>
+<exercise xml:id="Permutations8-pg">
+<introduction><p>Description</p></introduction>
+<webwork source="Library/UMass-Amherst/Abstract-Algebra/PS-Permutations/Permutations8.pg" />
+</exercise>
+ </exercises>
+ </section>
+
+
+
+
+ <section xml:id="s-15-4">
+<title>Section 15-4 Normal Subgroups and Homomorphisms</title>
+<exercises>
+<exercise xml:id="Cosets1-pg">
+<introduction><p>Description</p></introduction>
+<webwork source="Library/UMass-Amherst/Abstract-Algebra/PS-Cosets/Cosets1.pg" />
+</exercise>
+<exercise xml:id="Cosets2-pg">
+<introduction><p>Description</p></introduction>
+<webwork source="Library/UMass-Amherst/Abstract-Algebra/PS-Cosets/Cosets2.pg" />
+</exercise>
+<exercise xml:id="Cosets3-pg">
+<introduction><p>Description</p></introduction>
+<webwork source="Library/UMass-Amherst/Abstract-Algebra/PS-Cosets/Cosets3.pg" />
+</exercise>
+<exercise xml:id="Cosets4-pg">
+<introduction><p>Description</p></introduction>
+<webwork source="Library/UMass-Amherst/Abstract-Algebra/PS-Cosets/Cosets4.pg" />
+</exercise>
+<exercise xml:id="Cosets6-pg">
+<introduction><p>Description</p></introduction>
+<webwork source="Library/UMass-Amherst/Abstract-Algebra/PS-Cosets/Cosets6.pg" />
+</exercise>
+<exercise xml:id="Cosets7-pg">
+<introduction><p>Description</p></introduction>
+<webwork source="Library/UMass-Amherst/Abstract-Algebra/PS-Cosets/Cosets7.pg" />
+</exercise>
+<exercise xml:id="Cosets8-pg">
+<introduction><p>Description</p></introduction>
+<webwork source="Library/UMass-Amherst/Abstract-Algebra/PS-Cosets/Cosets8.pg" />
+</exercise>
+<exercise xml:id="Cosets9-pg">
+<introduction><p>Description</p></introduction>
+<webwork source="Library/UMass-Amherst/Abstract-Algebra/PS-Cosets/Cosets9.pg" />
+</exercise>
+ <exercise xml:id="Cosets10-pg">
+<introduction><p>Description</p></introduction>
+<webwork source="Library/UMass-Amherst/Abstract-Algebra/PS-Cosets/Cosets10.pg" />
+</exercise>
+<exercise xml:id="Cosets11-pg">
+<introduction><p>Description</p></introduction>
+<webwork source="Library/UMass-Amherst/Abstract-Algebra/PS-Cosets/Cosets11.pg" />
+</exercise>
+<exercise xml:id="Cosets12-pg">
+<introduction><p>Description</p></introduction>
+<webwork source="Library/UMass-Amherst/Abstract-Algebra/PS-Cosets/Cosets12.pg" />
+</exercise>
+<exercise xml:id="Cosets13-pg">
+<introduction><p>Description</p></introduction>
+<webwork source="Library/UMass-Amherst/Abstract-Algebra/PS-Cosets/Cosets13.pg" />
+</exercise>
+<exercise xml:id="Cosets14-pg">
+<introduction><p>Description</p></introduction>
+<webwork source="Library/UMass-Amherst/Abstract-Algebra/PS-Cosets/Cosets14.pg" />
+</exercise>
+
+<exercise xml:id="Homomorphisms1-pg">
+<introduction><p>Description</p></introduction>
+<webwork source="Library/UMass-Amherst/Abstract-Algebra/PS-GroupHomomorphisms/Homomorphisms1.pg"/>
+</exercise>
+<exercise xml:id="Homomorphisms2-pg">
+<introduction><p>Description</p></introduction>
+<webwork source="Library/UMass-Amherst/Abstract-Algebra/PS-GroupHomomorphisms/Homomorphisms2.pg"/>
+</exercise>
+<exercise xml:id="Homomorphisms3-pg">
+<introduction><p>Description</p></introduction>
+<webwork source="Library/UMass-Amherst/Abstract-Algebra/PS-GroupHomomorphisms/Homomorphisms3.pg"/>
+</exercise>
+<exercise xml:id="Homomorphisms4-pg">
+<introduction><p>Description</p></introduction>
+<webwork source="Library/UMass-Amherst/Abstract-Algebra/PS-GroupHomomorphisms/Homomorphisms4.pg"/>
+</exercise>
+<exercise xml:id="Homomorphisms5-pg">
+<introduction><p>Description</p></introduction>
+<webwork source="Library/UMass-Amherst/Abstract-Algebra/PS-GroupHomomorphisms/Homomorphisms5.pg"/>
+</exercise>
+<exercise xml:id="Homomorphisms6-pg">
+<introduction><p>Description</p></introduction>
+<webwork source="Library/UMass-Amherst/Abstract-Algebra/PS-GroupHomomorphisms/Homomorphisms6.pg"/>
+</exercise>
+<exercise xml:id="Homomorphisms7-pg">
+<introduction><p>Description</p></introduction>
+<webwork source="Library/UMass-Amherst/Abstract-Algebra/PS-GroupHomomorphisms/Homomorphisms7.pg"/>
+</exercise>
+<exercise xml:id="Homomorphisms8-pg">
+<introduction><p>Description</p></introduction>
+<webwork source="Library/UMass-Amherst/Abstract-Algebra/PS-GroupHomomorphisms/Homomorphisms8.pg"/>
+</exercise>
+</exercises>
+ </section>
+ 
+ 
+ <section xml:id="s-15-5">
+<title>Section 15-5 Group Actions</title>
+<exercises>
+ 
+<exercise xml:id="GroupActions1-pg">
+<introduction><p>Description</p></introduction>
+<webwork source="Library/UMass-Amherst/Abstract-Algebra/PS-GroupActions/GroupActions1.pg"/>
+</exercise>
+<exercise xml:id="GroupActions2-pg">
+<introduction><p>Description</p></introduction>
+<webwork source="Library/UMass-Amherst/Abstract-Algebra/PS-GroupActions/GroupActions2.pg"/>
+</exercise>
+<exercise xml:id="GroupActions3-pg">
+<introduction><p>Description</p></introduction>
+<webwork source="Library/UMass-Amherst/Abstract-Algebra/PS-GroupActions/GroupActions3.pg"/>
+</exercise>
+<exercise xml:id="GroupActions4-pg">
+<introduction><p>Description</p></introduction>
+<webwork source="Library/UMass-Amherst/Abstract-Algebra/PS-GroupActions/GroupActions4.pg"/>
+</exercise>
+<exercise xml:id="GroupActions5-pg">
+<introduction><p>Description</p></introduction>
+<webwork source="Library/UMass-Amherst/Abstract-Algebra/PS-GroupActions/GroupActions5.pg"/>
+</exercise>
+<exercise xml:id="GroupActions6-pg">
+<introduction><p>Description</p></introduction>
+<webwork source="Library/UMass-Amherst/Abstract-Algebra/PS-GroupActions/GroupActions6.pg"/>
+</exercise>
+<exercise xml:id="GroupActions7-pg">
+<introduction><p>Description</p></introduction>
+<webwork source="Library/UMass-Amherst/Abstract-Algebra/PS-GroupActions/GroupActions7.pg"/>
+</exercise>
+<exercise xml:id="GroupActions8-pg">
+<introduction><p>Description</p></introduction>
+<webwork source="Library/UMass-Amherst/Abstract-Algebra/PS-GroupActions/GroupActions8.pg"/>
+</exercise>
+<exercise xml:id="GroupActions9-pg">
+<introduction><p>Description</p></introduction>
+<webwork source="Library/UMass-Amherst/Abstract-Algebra/PS-GroupActions/GroupActions9.pg"/>
+</exercise>
+<exercise xml:id="GroupActions10-pg">
+<introduction><p>Description</p></introduction>
+<webwork source="Library/UMass-Amherst/Abstract-Algebra/PS-GroupActions/GroupActions10.pg"/>
+</exercise> 
+</exercises>
+</section>
+
+ 
+</chapter>	

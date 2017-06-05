@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<chapter xml:id="chapter_11" xmlns:xi="http://www.w3.org/2001/XInclude">
+<title>Algebraic Structures</title>
+<introduction>
+<p>The primary goal of this chapter is to make the reader aware of what an algebraic system is and how algebraic systems can be studied at different levels of abstraction. After describing the concrete, axiomatic, and universal levels, we will introduce one of the most important algebraic systems at the axiomatic level, the group. In this chapter, group theory will be a vehicle for introducing the universal concepts of isomorphism, direct product, subsystem, and generating set. These concepts can be applied to all algebraic systems. The simplicity of group theory will help the reader obtain a good intuitive understanding of these concepts. In Chapter 15, we will introduce some additional concepts and applications of group theory. We will close the chapter with a discussion of how some computer hardware and software systems use the concept of an algebraic system.</p>
+</introduction>
+<section xml:id="s-11-1">
+<title>Section 11.1 - Groups</title>
+<exercises>
+
+<exercise xml:id="Groups1-pg">
+<introduction><p>Description</p></introduction>
+<webwork source="Library/UMass-Amherst/Abstract-Algebra/PS-Groups/Groups1.pg"/>
+</exercise>
+<exercise xml:id="Groups2-pg">
+<introduction><p>Description</p></introduction>
+<webwork source="Library/UMass-Amherst/Abstract-Algebra/PS-Groups/Groups2.pg"/>
+</exercise>
+<exercise xml:id="Groups3-pg">
+<introduction><p>Description</p></introduction>
+<webwork source="Library/UMass-Amherst/Abstract-Algebra/PS-Groups/Groups3.pg"/>
+</exercise>
+<exercise xml:id="Groups4-pg">
+<introduction><p>Description</p></introduction>
+<webwork source="Library/UMass-Amherst/Abstract-Algebra/PS-Groups/Groups4.pg"/>
+</exercise>
+<exercise xml:id="Groups5-pg">
+<introduction><p>Description</p></introduction>
+<webwork source="Library/UMass-Amherst/Abstract-Algebra/PS-Groups/Groups5.pg"/>
+</exercise>
+<exercise xml:id="Groups6-pg">
+<introduction><p>Description</p></introduction>
+<webwork source="Library/UMass-Amherst/Abstract-Algebra/PS-Groups/Groups6.pg"/>
+</exercise>
+<exercise xml:id="Groups7-pg">
+<introduction><p>Description</p></introduction>
+<webwork source="Library/UMass-Amherst/Abstract-Algebra/PS-Groups/Groups7.pg"/>
+</exercise>
+<exercise xml:id="Groups8-pg">
+<introduction><p>Description</p></introduction>
+<webwork source="Library/UMass-Amherst/Abstract-Algebra/PS-Groups/Groups8.pg"/>
+</exercise>
+<exercise xml:id="Groups9-pg">
+<introduction><p>Description</p></introduction>
+<webwork source="Library/UMass-Amherst/Abstract-Algebra/PS-Groups/Groups9.pg"/>
+</exercise>
+<exercise xml:id="Groups10-pg">
+<introduction><p>Description</p></introduction>
+<webwork source="Library/UMass-Amherst/Abstract-Algebra/PS-Groups/Groups10.pg"/>
+</exercise>
+<exercise xml:id="Groups11-pg">
+<introduction><p>Description</p></introduction>
+<webwork source="Library/UMass-Amherst/Abstract-Algebra/PS-Groups/Groups11.pg"/>
+</exercise>
+<exercise xml:id="Groups12-pg">
+<introduction><p>Description</p></introduction>
+<webwork source="Library/UMass-Amherst/Abstract-Algebra/PS-Groups/Groups12.pg"/>
+</exercise>
+<exercise xml:id="Groups13-pg">
+<introduction><p>Description</p></introduction>
+<webwork source="Library/UMass-Amherst/Abstract-Algebra/PS-Groups/Groups13.pg"/>
+</exercise>
+<exercise xml:id="Groups14-pg">
+<introduction><p>Description</p></introduction>
+<webwork source="Library/UMass-Amherst/Abstract-Algebra/PS-Groups/Groups14.pg"/>
+</exercise>
+ </exercises>
+ </section>
+<section xml:id="s-11-2">
+<title>Section 11.2 - Congruences</title>
+<exercises>
+
+<exercise xml:id="Congruences1-pg">
+<introduction><p>Description</p></introduction>
+<webwork source="Library/UMass-Amherst/Abstract-Algebra/PS-Congruences/Congruences1.pg"/>
+</exercise>
+<exercise xml:id="Congruences2-pg">
+<introduction><p>Description</p></introduction>
+<webwork source="Library/UMass-Amherst/Abstract-Algebra/PS-Congruences/Congruences2.pg"/>
+</exercise>
+<exercise xml:id="Congruences3-pg">
+<introduction><p>Description</p></introduction>
+<webwork source="Library/UMass-Amherst/Abstract-Algebra/PS-Congruences/Congruences3.pg"/>
+</exercise>
+<exercise xml:id="Congruences4-pg">
+<introduction><p>Description</p></introduction>
+<webwork source="Library/UMass-Amherst/Abstract-Algebra/PS-Congruences/Congruences4.pg"/>
+</exercise>
+<exercise xml:id="Congruences5-pg">
+<introduction><p>Description</p></introduction>
+<webwork source="Library/UMass-Amherst/Abstract-Algebra/PS-Congruences/Congruences5.pg"/>
+</exercise>
+<exercise xml:id="Congruences6-pg">
+<introduction><p>Description</p></introduction>
+<webwork source="Library/UMass-Amherst/Abstract-Algebra/PS-Congruences/Congruences6.pg"/>
+</exercise>
+<exercise xml:id="Congruences7-pg">
+<introduction><p>Description</p></introduction>
+<webwork source="Library/UMass-Amherst/Abstract-Algebra/PS-Congruences/Congruences7.pg"/>
+</exercise>
+<exercise xml:id="Congruences8-pg">
+<introduction><p>Description</p></introduction>
+<webwork source="Library/UMass-Amherst/Abstract-Algebra/PS-Congruences/Congruences8.pg"/>
+</exercise>
+<exercise xml:id="Congruences9-pg">
+<introduction><p>Description</p></introduction>
+<webwork source="Library/UMass-Amherst/Abstract-Algebra/PS-Congruences/Congruences9.pg"/>
+</exercise>
+<exercise xml:id="Congruences10-pg">
+<introduction><p>Description</p></introduction>
+<webwork source="Library/UMass-Amherst/Abstract-Algebra/PS-Congruences/Congruences10.pg"/>
+</exercise>
+<exercise xml:id="Congruences11-pg">
+<introduction><p>Description</p></introduction>
+<webwork source="Library/UMass-Amherst/Abstract-Algebra/PS-Congruences/Congruences11.pg"/>
+</exercise>
+<exercise xml:id="Congruences12-pg">
+<introduction><p>Description</p></introduction>
+<webwork source="Library/UMass-Amherst/Abstract-Algebra/PS-Congruences/Congruences12.pg"/>
+</exercise>
+<exercise xml:id="Congruences13-pg">
+<introduction><p>Description</p></introduction>
+<webwork source="Library/UMass-Amherst/Abstract-Algebra/PS-Congruences/Congruences13.pg"/>
+</exercise>
+</exercises>
+</section>
+
+<section xml:id="s-11-3">
+<title>Section 11.3 - Subgroups</title>
+<exercises>
+
+<exercise xml:id="Subgroups1-pg">
+<introduction><p>Description</p></introduction>
+<webwork source="Library/UMass-Amherst/Abstract-Algebra/PS-Subgroups/Subgroups1.pg"/>
+</exercise>
+<exercise xml:id="Subgroups2-pg">
+<introduction><p>Description</p></introduction>
+<webwork source="Library/UMass-Amherst/Abstract-Algebra/PS-Subgroups/Subgroups2.pg"/>
+</exercise>
+<exercise xml:id="Subgroups3-pg">
+<introduction><p>Description</p></introduction>
+<webwork source="Library/UMass-Amherst/Abstract-Algebra/PS-Subgroups/Subgroups3.pg"/>
+</exercise>
+<exercise xml:id="Subgroups4-pg">
+<introduction><p>Description</p></introduction>
+<webwork source="Library/UMass-Amherst/Abstract-Algebra/PS-Subgroups/Subgroups4.pg"/>
+</exercise>
+<exercise xml:id="Subgroups5-pg">
+<introduction><p>Description</p></introduction>
+<webwork source="Library/UMass-Amherst/Abstract-Algebra/PS-Subgroups/Subgroups5.pg"/>
+</exercise>
+<exercise xml:id="Subgroups6-pg">
+<introduction><p>Description</p></introduction>
+<webwork source="Library/UMass-Amherst/Abstract-Algebra/PS-Subgroups/Subgroups6.pg"/>
+</exercise>
+<exercise xml:id="Subgroups7-pg">
+<introduction><p>Description</p></introduction>
+<webwork source="Library/UMass-Amherst/Abstract-Algebra/PS-Subgroups/Subgroups7.pg"/>
+</exercise>
+<exercise xml:id="Subgroups8-pg">
+<introduction><p>Description</p></introduction>
+<webwork source="Library/UMass-Amherst/Abstract-Algebra/PS-Subgroups/Subgroups8.pg"/>
+</exercise>
+<exercise xml:id="Subgroups9-pg">
+<introduction><p>Description</p></introduction>
+<webwork source="Library/UMass-Amherst/Abstract-Algebra/PS-Subgroups/Subgroups9.pg"/>
+</exercise>
+<exercise xml:id="Subgroups10-pg">
+<introduction><p>Description</p></introduction>
+<webwork source="Library/UMass-Amherst/Abstract-Algebra/PS-Subgroups/Subgroups10.pg"/>
+</exercise>
+<exercise xml:id="Subgroups11-pg">
+<introduction><p>Description</p></introduction>
+<webwork source="Library/UMass-Amherst/Abstract-Algebra/PS-Subgroups/Subgroups11.pg"/>
+</exercise>
+
+</exercises>
+</section>
+
+
+
+<section xml:id="s-11-4">
+<title>Section 11.4 - Quotients/Products</title>
+<exercises>
+<exercise xml:id="katie2-4-1-pg">
+<introduction><p>Description: Library/ASU-topics/setDiscrete/katie2-4.1.pg</p></introduction>
+<webwork source="Library/ASU-topics/setDiscrete/katie2-4.1.pg"/>
+</exercise>
+<exercise xml:id="ur_dis_6_4_11-pg">
+<introduction><p>Description: Library/Rochester/setDiscrete6Integers/ur_dis_6_4.pg</p></introduction>
+<webwork source="Library/Rochester/setDiscrete6Integers/ur_dis_6_4.pg"/>
+</exercise>
+<exercise xml:id="ur_dis_6_5-pg">
+<introduction><p>Description: Library/Rochester/setDiscrete6Integers/ur_dis_6_5.pg</p></introduction>
+<webwork source="Library/Rochester/setDiscrete6Integers/ur_dis_6_5.pg"/>
+</exercise>
+<exercise xml:id="ur_dis_6_6-pg">
+<introduction><p>Description: Library/Rochester/setDiscrete6Integers/ur_dis_6_6.pg</p></introduction>
+<webwork source="Library/Rochester/setDiscrete6Integers/ur_dis_6_6.pg"/>
+</exercise>
+<exercise xml:id="ur_dis_6_7-pg">
+<introduction><p>Description: Library/Rochester/setDiscrete6Integers/ur_dis_6_7.pg</p></introduction>
+<webwork source="Library/Rochester/setDiscrete6Integers/ur_dis_6_7.pg"/>
+</exercise>
+<exercise xml:id="ur_dis_6_8-pg">
+<introduction><p>Description: Library/Rochester/setDiscrete6Integers/ur_dis_6_8.pg</p></introduction>
+<webwork source="Library/Rochester/setDiscrete6Integers/ur_dis_6_8.pg"/>
+</exercise>
+<exercise xml:id="ur_dis_6_9-pg">
+<introduction><p>Description: Library/Rochester/setDiscrete6Integers/ur_dis_6_9.pg</p></introduction>
+<webwork source="Library/Rochester/setDiscrete6Integers/ur_dis_6_9.pg"/>
+</exercise>
+
+<exercise xml:id="ur_dis_6_4-pg">
+<introduction><p>Description: Library/Rochester/setDiscrete6Integers/ur_dis_6_4.pg</p></introduction>
+<webwork source="Library/Rochester/setDiscrete6Integers/ur_dis_6_4.pg"/>
+</exercise>
+<exercise xml:id="QuotientsProducts1-pg">
+<introduction><p>Description</p></introduction>
+<webwork source="Library/UMass-Amherst/Abstract-Algebra/PS-GroupQuotientsProducts/QuotientsProducts1.pg"/>
+</exercise>
+<exercise xml:id="QuotientsProducts2-pg">
+<introduction><p>Description</p></introduction>
+<webwork source="Library/UMass-Amherst/Abstract-Algebra/PS-GroupQuotientsProducts/QuotientsProducts2.pg"/>
+</exercise>
+<exercise xml:id="QuotientsProducts3-pg">
+<introduction><p>Description</p></introduction>
+<webwork source="Library/UMass-Amherst/Abstract-Algebra/PS-GroupQuotientsProducts/QuotientsProducts3.pg"/>
+</exercise>
+<exercise xml:id="QuotientsProducts4-pg">
+<introduction><p>Description</p></introduction>
+<webwork source="Library/UMass-Amherst/Abstract-Algebra/PS-GroupQuotientsProducts/QuotientsProducts4.pg"/>
+</exercise>
+<exercise xml:id="QuotientsProducts5-pg">
+<introduction><p>Description</p></introduction>
+<webwork source="Library/UMass-Amherst/Abstract-Algebra/PS-GroupQuotientsProducts/QuotientsProducts5.pg"/>
+</exercise>
+<exercise xml:id="QuotientsProducts6-pg">
+<introduction><p>Description</p></introduction>
+<webwork source="Library/UMass-Amherst/Abstract-Algebra/PS-GroupQuotientsProducts/QuotientsProducts6.pg"/>
+</exercise>
+<exercise xml:id="QuotientsProducts7-pg">
+<introduction><p>Description</p></introduction>
+<webwork source="Library/UMass-Amherst/Abstract-Algebra/PS-GroupQuotientsProducts/QuotientsProducts7.pg"/>
+</exercise>
+<exercise xml:id="QuotientsProducts8-pg">
+<introduction><p>Description</p></introduction>
+<webwork source="Library/UMass-Amherst/Abstract-Algebra/PS-GroupQuotientsProducts/QuotientsProducts8.pg"/>
+</exercise>
+<exercise xml:id="QuotientsProducts9-pg">
+<introduction><p>Description</p></introduction>
+<webwork source="Library/UMass-Amherst/Abstract-Algebra/PS-GroupQuotientsProducts/QuotientsProducts9.pg"/>
+</exercise>
+
+</exercises>
+</section>
+
+
+</chapter>	

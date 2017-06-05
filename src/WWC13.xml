@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<chapter xml:id="chapter_13" xmlns:xi="http://www.w3.org/2001/XInclude">
+<title>Boolean Algebras</title>
+<introduction><p></p>
+</introduction>
+<section xml:id="s-13-1">
+<title>Section 13.1 - Lattices</title>
+<exercises>
+
+
+ </exercises>
+ </section>
+
+
+
+
+
+<section xml:id="s-13-5">
+<title>Section 13.5</title>
+<exercises>
+<exercise xml:id="ur_dis_1_5-pg">
+<introduction><p>Description: Rochester/setDiscrete1Logic/ur_dis_1_5.pg</p></introduction>
+<webwork source="Rochester/setDiscrete1Logic/ur_dis_1_5.pg"/>
+</exercise>
+
+ </exercises>
+ </section>
+</chapter>	

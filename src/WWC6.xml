@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<chapter xml:id="chapter_6" xmlns:xi="http://www.w3.org/2001/XInclude">
+<title>Relations</title>
+<introduction><p>One understands a set of objects completely only if the structure of that set is made clear by the interrelationships between its elements. For example, the individuals in a crowd can be compared by height, by age, or through any number of other criteria. In mathematics, such comparisons are called relations. The goal of this chapter is to develop the language, tools, and concepts of relations.</p></introduction>
+
+<section xml:id="s-6-1">
+<title>Section 6.1</title>
+<exercises>
+<exercise xml:id="Relations1-pg">
+<introduction><p>Description</p></introduction>
+<webwork source="Library/UMass-Amherst/Abstract-Algebra/PS-Relations/Relations1.pg" />
+</exercise>
+<exercise xml:id="Relations2-pg">
+<introduction><p>Description</p></introduction>
+<webwork source="Library/UMass-Amherst/Abstract-Algebra/PS-Relations/Relations2.pg" />
+</exercise>
+<exercise xml:id="Relations3-pg">
+<introduction><p>Description</p></introduction>
+<webwork source="Library/UMass-Amherst/Abstract-Algebra/PS-Relations/Relations3.pg" />
+</exercise>
+<exercise xml:id="Relations4-pg">
+<introduction><p>Description</p></introduction>
+<webwork source="Library/UMass-Amherst/Abstract-Algebra/PS-Relations/Relations4.pg" />
+</exercise>
+<exercise xml:id="Relations5-pg">
+<introduction><p>Description</p></introduction>
+<webwork source="Library/UMass-Amherst/Abstract-Algebra/PS-Relations/Relations5.pg" />
+</exercise>
+<exercise xml:id="Relations6-pg">
+<introduction><p>Description</p></introduction>
+<webwork source="Library/UMass-Amherst/Abstract-Algebra/PS-Relations/Relations6.pg" />
+</exercise>
+<exercise xml:id="Relations7-pg">
+<introduction><p>Description</p></introduction>
+<webwork source="Library/UMass-Amherst/Abstract-Algebra/PS-Relations/Relations7.pg" />
+</exercise> 
+</exercises>
+ </section>
+
+<section xml:id="s-6-2">
+<title>Section 6.2</title>
+<exercises>
+
+</exercises>
+ </section>
+
+
+<section xml:id="s-6-3">
+<title>Section 6.3</title>
+<exercises>
+<exercise xml:id="formallogicB12-pg">
+<introduction><p>Description: Library/SDSU/Discrete/Logic/formallogicB12.pg</p></introduction>
+<webwork source="Library/SDSU/Discrete/Logic/formallogicB12.pg"/>
+</exercise>
+ <exercise xml:id="katie20-pg">
+<introduction><p>Description: Library/ASU-topics/setDiscrete/katie20.pg</p></introduction>
+<webwork source="Library/ASU-topics/setDiscrete/katie20.pg"/>
+</exercise>
+<exercise xml:id="katie21-pg">
+<introduction><p>Description: Library/ASU-topics/setDiscrete/katie21.pg</p></introduction>
+<webwork source="Library/ASU-topics/setDiscrete/katie21.pg"/>
+</exercise>
+<exercise xml:id="katie22-pg">
+<introduction><p>Description: Library/ASU-topics/setDiscrete/katie22.pg</p></introduction>
+<webwork source="Library/ASU-topics/setDiscrete/katie22.pg"/>
+</exercise>
+<exercise xml:id="katie23-pg">
+<introduction><p>Description: Library/ASU-topics/setDiscrete/katie23.pg</p></introduction>
+<webwork source="Library/ASU-topics/setDiscrete/katie23.pg"/>
+</exercise>
+</exercises>
+ </section>
+ 
+ 
+</chapter>	

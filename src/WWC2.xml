@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<chapter xml:id="chapter_2" xmlns:xi="http://www.w3.org/2001/XInclude">
+<title>Combinatorics</title>
+<introduction><p></p>
+</introduction>
+<section xml:id="s-2-1">
+<title>Basic Counting Techniques - The Rule of Products</title>
+<exercises>
+<exercise xml:id="p10-pg">
+<introduction><p>Description: Library/ASU-topics/setCount/p10.pg</p></introduction>
+<webwork source="Library/ASU-topics/setCount/p10.pg"/>
+</exercise>
+<exercise xml:id="sw10_1_15-pg">
+<introduction><p>Description: Library/ASU-topics/setCount/sw10_1_15.pg</p></introduction>
+<webwork source="Library/ASU-topics/setCount/sw10_1_15.pg"/>
+</exercise>
+<exercise xml:id="sw10_1_21-pg">
+<introduction><p>Description: Library/ASU-topics/setCount/sw10_1_21.pg</p></introduction>
+<webwork source="Library/ASU-topics/setCount/sw10_1_21.pg"/>
+</exercise>
+<exercise xml:id="sw10_1_23-pg">
+<introduction><p>Description: Library/ASU-topics/setCount/sw10_1_23.pg</p></introduction>
+<webwork source="Library/ASU-topics/setCount/sw10_1_23.pg"/>
+</exercise>
+<exercise xml:id="sw10_1_3-pg">
+<introduction><p>Description: Library/ASU-topics/setCount/sw10_1_3.pg</p></introduction>
+<webwork source="Library/ASU-topics/setCount/sw10_1_3.pg"/>
+</exercise>
+
+
+
+
+
+
+
+
+ </exercises>
+ </section>
+ <section xml:id="s-2-2">
+<title>Permutations</title>
+<exercises>
+<exercise xml:id="sw10_1_7-pg">
+<introduction><p>Description: Library/ASU-topics/setCount/sw10_1_7.pg</p></introduction>
+<webwork source="Library/ASU-topics/setCount/sw10_1_7.pg"/>
+</exercise>
+<exercise xml:id="sw10_1_33-pg">
+<introduction><p>Description: Library/ASU-topics/setCount/sw10_1_33.pg</p></introduction>
+<webwork source="Library/ASU-topics/setCount/sw10_1_33.pg"/>
+</exercise>
+
+
+
+
+
+
+
+
+
+
+
+
+ </exercises>
+ </section>
+ <section xml:id="s-2-3">
+<title>Combinations</title>
+<exercises>
+<exercise xml:id="pcount1-pg">
+<introduction><p>Description: Library/ASU-topics/setCount/pcount1.pg</p></introduction>
+<webwork source="Library/ASU-topics/setCount/pcount1.pg"/>
+</exercise>
+<exercise xml:id="pcount2-pg">
+<introduction><p>Description: Library/ASU-topics/setCount/pcount2.pg</p></introduction>
+<webwork source="Library/ASU-topics/setCount/pcount2.pg"/>
+</exercise>
+<exercise xml:id="sw10_2_22-pg">
+<introduction><p>Description: Library/ASU-topics/setCount/sw10_2_22.pg</p></introduction>
+<webwork source="Library/ASU-topics/setCount/sw10_2_22.pg"/>
+</exercise>
+<exercise xml:id="sw10_2_40-pg">
+<introduction><p>Description: Library/ASU-topics/setCount/sw10_2_40.pg</p></introduction>
+<webwork source="Library/ASU-topics/setCount/sw10_2_40.pg"/>
+</exercise>
+<exercise xml:id="sw10_2_52-pg">
+<introduction><p>Description: Library/ASU-topics/setCount/sw10_2_52.pg</p></introduction>
+<webwork source="Library/ASU-topics/setCount/sw10_2_52.pg"/>
+</exercise>
+<exercise xml:id="sw10_2_5-pg">
+<introduction><p>Description: Library/ASU-topics/setCount/sw10_2_5.pg</p></introduction>
+<webwork source="Library/ASU-topics/setCount/sw10_2_5.pg"/>
+</exercise>
+
+<exercise xml:id="Counting_1-pg">
+<introduction><p>Description: Library/NAU/setCounting/Counting_1.pg</p></introduction>
+<webwork source="Library/NAU/setCounting/Counting_1.pg"/>
+</exercise>
+<exercise xml:id="counting1-pg">
+<introduction><p>Description: Library/NAU/setCounting/counting1.pg</p></introduction>
+<webwork source="Library/NAU/setCounting/counting1.pg"/>
+</exercise>
+<exercise xml:id="Counting_2-pg">
+<introduction><p>Description: Library/NAU/setCounting/Counting_2.pg</p></introduction>
+<webwork source="Library/NAU/setCounting/Counting_2.pg"/>
+</exercise>
+<exercise xml:id="counting2-pg">
+<introduction><p>Description: Library/NAU/setCounting/counting2.pg</p></introduction>
+<webwork source="Library/NAU/setCounting/counting2.pg"/>
+</exercise>
+<exercise xml:id="Counting_3-pg">
+<introduction><p>Description: Library/NAU/setCounting/Counting_3.pg</p></introduction>
+<webwork source="Library/NAU/setCounting/Counting_3.pg"/>
+</exercise>
+<exercise xml:id="counting3-pg">
+<introduction><p>Description: Library/NAU/setCounting/counting3.pg</p></introduction>
+<webwork source="Library/NAU/setCounting/counting3.pg"/>
+</exercise>
+<exercise xml:id="Counting_4-pg">
+<introduction><p>Description: Library/NAU/setCounting/Counting_4.pg</p></introduction>
+<webwork source="Library/NAU/setCounting/Counting_4.pg"/>
+</exercise>
+<exercise xml:id="Counting_5-pg">
+<introduction><p>Description: Library/NAU/setCounting/Counting_5.pg</p></introduction>
+<webwork source="Library/NAU/setCounting/Counting_5.pg"/>
+</exercise>
+<exercise xml:id="Counting_6-pg">
+<introduction><p>Description: Library/NAU/setCounting/Counting_6.pg</p></introduction>
+<webwork source="Library/NAU/setCounting/Counting_6.pg"/>
+</exercise>
+<exercise xml:id="Counting_7-pg">
+<introduction><p>Description: Library/NAU/setCounting/Counting_7.pg</p></introduction>
+<webwork source="Library/NAU/setCounting/Counting_7.pg"/>
+</exercise>
+<exercise xml:id="Counting_8-pg">
+<introduction><p>Description: Library/NAU/setCounting/Counting_8.pg</p></introduction>
+<webwork source="Library/NAU/setCounting/Counting_8.pg"/>
+</exercise>
+<exercise xml:id="Counting_9-pg">
+<introduction><p>Description: Library/NAU/setCounting/Counting_9.pg</p></introduction>
+<webwork source="Library/NAU/setCounting/Counting_9.pg"/>
+</exercise>
+<exercise xml:id="Fibonacci-pg">
+<introduction><p>Description: Library/NAU/setCounting/Fibonacci.pg</p></introduction>
+<webwork source="Library/NAU/setCounting/Fibonacci.pg"/>
+</exercise>
+<exercise xml:id="generalizedCombination1-pg">
+<introduction><p>Description: Library/NAU/setCounting/generalizedCombination1.pg</p></introduction>
+<webwork source="Library/NAU/setCounting/generalizedCombination1.pg"/>
+</exercise>
+<exercise xml:id="generalizedCombination2-pg">
+<introduction><p>Description: Library/NAU/setCounting/generalizedCombination2.pg</p></introduction>
+<webwork source="Library/NAU/setCounting/generalizedCombination2.pg"/>
+</exercise>
+<exercise xml:id="PermutationsCombinations1-pg">
+<introduction><p>Description: Library/NAU/setCounting/PermutationsCombinations1.pg</p></introduction>
+<webwork source="Library/NAU/setCounting/PermutationsCombinations1.pg"/>
+</exercise>
+<exercise xml:id="RepeatedCombination1-pg">
+<introduction><p>Description: Library/NAU/setCounting/RepeatedCombination1.pg</p></introduction>
+<webwork source="Library/NAU/setCounting/RepeatedCombination1.pg"/>
+</exercise>
+<exercise xml:id="RepeatedCombination2-pg">
+<introduction><p>Description: Library/NAU/setCounting/RepeatedCombination2.pg</p></introduction>
+<webwork source="Library/NAU/setCounting/RepeatedCombination2.pg"/>
+</exercise>
+<exercise xml:id="combinationsAdvanced-pg">
+<introduction><p>Description: Library/NAU/setCounting/combinationsAdvanced.pg</p></introduction>
+<webwork source="Library/NAU/setCounting/combinationsAdvanced.pg"/>
+</exercise>
+<exercise xml:id="Counting_10-pg">
+<introduction><p>Description: Library/NAU/setCounting/Counting_10.pg</p></introduction>
+<webwork source="Library/NAU/setCounting/Counting_10.pg"/>
+</exercise>
+<exercise xml:id="Counting_11-pg">
+<introduction><p>Description: Library/NAU/setCounting/Counting_11.pg</p></introduction>
+<webwork source="Library/NAU/setCounting/Counting_11.pg"/>
+</exercise>
+<exercise xml:id="Counting_12-pg">
+<introduction><p>Description: Library/NAU/setCounting/Counting_12.pg</p></introduction>
+<webwork source="Library/NAU/setCounting/Counting_12.pg"/>
+</exercise>
+<exercise xml:id="Counting_13-pg">
+<introduction><p>Description: Library/NAU/setCounting/Counting_13.pg</p></introduction>
+<webwork source="Library/NAU/setCounting/Counting_13.pg"/>
+</exercise>
+<exercise xml:id="Counting_14-pg">
+<introduction><p>Description: Library/NAU/setCounting/Counting_14.pg</p></introduction>
+<webwork source="Library/NAU/setCounting/Counting_14.pg"/>
+</exercise>
+<exercise xml:id="Counting_15-pg">
+<introduction><p>Description: Library/NAU/setCounting/Counting_15.pg</p></introduction>
+<webwork source="Library/NAU/setCounting/Counting_15.pg"/>
+</exercise>
+
+
+ </exercises>
+ </section>
+ <section xml:id="s-2-4">
+<title>Partitions, The Law of Addition</title>
+<exercises>
+<exercise xml:id="stef4-5b-pg">
+<introduction><p>Description: Library/ASU-topics/setDiscrete/stef4-5b.pg</p></introduction>
+<webwork source="Library/ASU-topics/setDiscrete/stef4-5b.pg"/>
+</exercise>
+<exercise xml:id="stefi4-5a-pg">
+<introduction><p>Description: Library/ASU-topics/setDiscrete/stefi4-5a.pg</p></introduction>
+<webwork source="Library/ASU-topics/setDiscrete/stefi4-5a.pg"/>
+</exercise>
+<exercise xml:id="sw10_2_14-pg">
+<introduction><p>Description: Library/ASU-topics/setCount/sw10_2_14.pg</p></introduction>
+<webwork source="Library/ASU-topics/setCount/sw10_2_14.pg"/>
+</exercise>
+<exercise xml:id="sw10_2_21-pg">
+<introduction><p>Description: Library/ASU-topics/setCount/sw10_2_21.pg</p></introduction>
+<webwork source="Library/ASU-topics/setCount/sw10_2_21.pg"/>
+</exercise>
+<exercise xml:id="inclexclA1-pg">
+<introduction><p>Description: Library/SDSU/Discrete/Sets/inclexclA1.pg</p></introduction>
+<webwork source="Library/SDSU/Discrete/Sets/inclexclA1.pg"/>
+</exercise>
+<exercise xml:id="inclexclA2-pg">
+<introduction><p>Description: Library/SDSU/Discrete/Sets/inclexclA2.pg</p></introduction>
+<webwork source="Library/SDSU/Discrete/Sets/inclexclA2.pg"/>
+</exercise>
+<exercise xml:id="inclexclB3-pg">
+<introduction><p>Description: Library/SDSU/Discrete/Sets/inclexclB3.pg</p></introduction>
+<webwork source="Library/SDSU/Discrete/Sets/inclexclB3.pg"/>
+</exercise>
+<exercise xml:id="ur_dis_11_3-pg">
+<introduction><p>Description: Library/ASU-topics/setSets/ur_dis_11_3.pg</p></introduction>
+<webwork source="Library/ASU-topics/setSets/ur_dis_11_3.pg"/>
+</exercise>
+<exercise xml:id="inclexclB4-pg">
+<introduction><p>Description: Library/SDSU/Discrete/Sets/inclexclB4.pg</p></introduction>
+<webwork source="Library/SDSU/Discrete/Sets/inclexclB4.pg"/>
+</exercise>
+<exercise xml:id="ur_dis_11_1-pg">
+<introduction><p>Description: Library/ASU-topics/setSets/ur_dis_11_1.pg</p></introduction>
+<webwork source="Library/ASU-topics/setSets/ur_dis_11_1.pg"/>
+</exercise>
+<exercise xml:id="pset3-pg">
+<introduction><p>Description: Library/ASU-topics/setSets/pset3.pg</p></introduction>
+<webwork source="Library/ASU-topics/setSets/pset3.pg"/>
+</exercise>
+<exercise xml:id="psets2-pg">
+<introduction><p>Description: Library/ASU-topics/setSets/psets2.pg</p></introduction>
+<webwork source="Library/ASU-topics/setSets/psets2.pg"/>
+</exercise>
+<exercise xml:id="psets3-pg">
+<introduction><p>Description: Library/ASU-topics/setSets/psets3.pg</p></introduction>
+<webwork source="Library/ASU-topics/setSets/psets3.pg"/>
+</exercise>
+<exercise xml:id="p11-pg">
+<introduction><p>Description: Library/ASU-topics/setCount/p11.pg</p></introduction>
+<webwork source="Library/ASU-topics/setCount/p11.pg"/>
+</exercise>
+<exercise xml:id="p12-pg">
+<introduction><p>Description: Library/ASU-topics/setCount/p12.pg</p></introduction>
+<webwork source="Library/ASU-topics/setCount/p12.pg"/>
+</exercise>
+ </exercises>
+ </section>
+</chapter>	

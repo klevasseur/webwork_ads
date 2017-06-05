@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<chapter xml:id="chapter_7" xmlns:xi="http://www.w3.org/2001/XInclude">
+<title>Functions</title>
+<introduction><p>In this chapter we will consider some basic concepts of the relations that are called functions. A large variety of mathematical ideas and applications can be more completely understood when expressed through the function concept.</p></introduction>
+<section xml:id="s-7-1">
+<title>Section 7.1</title>
+<exercises>
+
+
+ </exercises>
+ </section>
+<section xml:id="s-7-2">
+<title>Section 7.2</title>
+<exercises>
+<exercise  xml:id="ww-function-properties-1">
+          <introduction><p>Function Properties Exercise</p></introduction>
+      <webwork source="Library/UMass-Amherst/Abstract-Algebra/PS-Functions/Functions1.pg" />
+</exercise>
+<exercise  xml:id="ww-function-properties-2">
+          <introduction><p>Function Properties Exercise</p></introduction>
+      <webwork source="Library/Rochester/setDiscrete4Functions/ur_dis_4_3.pg" />
+</exercise>
+<exercise xml:id="katie4-2-1-pg">
+<introduction><p>Description: Library/ASU-topics/setDiscrete/katie4.2-1.pg</p></introduction>
+<webwork source="Library/ASU-topics/setDiscrete/katie4.2-1.pg"/>
+</exercise>
+<exercise xml:id="katie4-2-2-pg">
+<introduction><p>Description: Library/ASU-topics/setDiscrete/katie4-2.2.pg</p></introduction>
+<webwork source="Library/ASU-topics/setDiscrete/katie4-2.2.pg"/>
+</exercise>
+
+ </exercises>
+ </section>
+<section xml:id="s-7-3">
+<title>Section 7.3</title>
+<exercises>
+<exercise xml:id="katie1-8-1-pg">
+<introduction><p>Description: Library/ASU-topics/setDiscrete/katie1-8.1.pg</p></introduction>
+<webwork source="Library/ASU-topics/setDiscrete/katie1-8.1.pg"/>
+</exercise>
+
+<exercise   xml:id="ww-function-composition-1">
+          <introduction><p>Function Composition Exercise</p></introduction>
+      <webwork source="Library/LoyolaChicago/Precalc/Chap8Sec1/Q02.pg" />
+</exercise>
+<exercise  xml:id="ww-function-composition-2">
+          <introduction><p>Function Composition Exercise</p></introduction>
+      <webwork source="Library/LoyolaChicago/Precalc/Chap2Sec4/Q26.pg" />
+</exercise>
+
+<exercise xml:id="Functions1-pg">
+<introduction><p>Description</p></introduction>
+<webwork source="Library/UMass-Amherst/Abstract-Algebra/PS-Functions/Functions1.pg" />
+</exercise>
+<exercise xml:id="Functions2-pg">
+<introduction><p>Description</p></introduction>
+<webwork source="Library/UMass-Amherst/Abstract-Algebra/PS-Functions/Functions2.pg" />
+</exercise>
+<exercise xml:id="Functions3-pg">
+<introduction><p>Description</p></introduction>
+<webwork source="Library/UMass-Amherst/Abstract-Algebra/PS-Functions/Functions3.pg" />
+</exercise>
+<exercise xml:id="Functions4-pg">
+<introduction><p>Description</p></introduction>
+<webwork source="Library/UMass-Amherst/Abstract-Algebra/PS-Functions/Functions4.pg" />
+</exercise>
+<exercise xml:id="Functions5-pg">
+<introduction><p>Description</p></introduction>
+<webwork source="Library/UMass-Amherst/Abstract-Algebra/PS-Functions/Functions5.pg" />
+</exercise>
+<exercise xml:id="Functions6-pg">
+<introduction><p>Description</p></introduction>
+<webwork source="Library/UMass-Amherst/Abstract-Algebra/PS-Functions/Functions6.pg" />
+</exercise>
+<exercise xml:id="Functions7-pg">
+<introduction><p>Description</p></introduction>
+<webwork source="Library/UMass-Amherst/Abstract-Algebra/PS-Functions/Functions7.pg" />
+</exercise>
+<exercise xml:id="Functions8-pg">
+<introduction><p>Description</p></introduction>
+<webwork source="Library/UMass-Amherst/Abstract-Algebra/PS-Functions/Functions8.pg" />
+</exercise>
+
+
+
+ </exercises>
+ </section>
+</chapter>	

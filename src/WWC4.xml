@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<chapter xml:id="chapter_4" xmlns:xi="http://www.w3.org/2001/XInclude">
+<title>More on Sets</title>
+<introduction><p></p>
+</introduction>
+<section xml:id="s-4-1">
+<title>Section 4.1</title>
+<exercises>
+<exercise xml:id="ur_dis_11_2-pg">
+<introduction><p>Description: Library/ASU-topics/setSets/ur_dis_11_2.pg</p></introduction>
+<webwork source="Library/ASU-topics/setSets/ur_dis_11_2.pg"/>
+</exercise>
+
+ </exercises>
+ </section>
+ 
+ <section xml:id="s-4-2">
+<title>Section 4.2</title>
+<exercises>
+<exercise xml:id="setpropA1-pg">
+<introduction><p>Description: Library/SDSU/Discrete/Sets/setpropA1.pg</p></introduction>
+<webwork source="Library/SDSU/Discrete/Sets/setpropA1.pg"/>
+</exercise>
+<exercise xml:id="setpropA2-pg">
+<introduction><p>Description: Library/SDSU/Discrete/Sets/setpropA2.pg</p></introduction>
+<webwork source="Library/SDSU/Discrete/Sets/setpropA2.pg"/>
+</exercise>
+<exercise xml:id="setpropA3-pg">
+<introduction><p>Description: Library/SDSU/Discrete/Sets/setpropA3.pg</p></introduction>
+<webwork source="Library/SDSU/Discrete/Sets/setpropA3.pg"/>
+</exercise>
+<exercise xml:id="setpropA4-pg">
+<introduction><p>Description: Library/SDSU/Discrete/Sets/setpropA4.pg</p></introduction>
+<webwork source="Library/SDSU/Discrete/Sets/setpropA4.pg"/>
+</exercise>
+<exercise xml:id="setpropA5-pg">
+<introduction><p>Description: Library/SDSU/Discrete/Sets/setpropA5.pg</p></introduction>
+<webwork source="Library/SDSU/Discrete/Sets/setpropA5.pg"/>
+</exercise>
+<exercise xml:id="setpropA6-pg">
+<introduction><p>Description: Library/SDSU/Discrete/Sets/setpropA6.pg</p></introduction>
+<webwork source="Library/SDSU/Discrete/Sets/setpropA6.pg"/>
+</exercise>
+<exercise xml:id="psets4-pg">
+<introduction><p>Description: Library/ASU-topics/setSets/psets4.pg</p></introduction>
+<webwork source="Library/ASU-topics/setSets/psets4.pg"/>
+</exercise>
+
+ </exercises>
+ </section>
+
+
+<section xml:id="s-4-3">
+<title>Section 4.3</title>
+<exercises>
+<exercise xml:id="ur_dis_11_4-pg">
+<introduction><p>Description: Library/ASU-topics/setSets/ur_dis_11_4.pg</p></introduction>
+<webwork source="Library/ASU-topics/setSets/ur_dis_11_4.pg"/>
+</exercise>
+
+ </exercises>
+ </section>
+
+
+<section xml:id="s-4-4">
+<title>Section 4.4</title>
+<exercises>
+
+
+ </exercises>
+ </section>
+
+</chapter>	

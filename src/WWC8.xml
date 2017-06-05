@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<chapter xml:id="chapter_8" xmlns:xi="http://www.w3.org/2001/XInclude">
+<title>Recursion and Recurrence Relations</title>
+<introduction><p>An essential tool that anyone interested in computer science must master is how to think recursively. The ability to understand definitions, concepts,
+algorithms, etc., that are presented recursively and the ability to put thoughts into a recursive framework are essential in computer science. One of our goals in this chapter is to help the reader become more comfortable with recursion in its commonly encountered forms.</p>
+<p>A second goal is to discuss recurrence relations. We will concentrate on methods of solving recurrence relations, including an introduction to generating
+functions.
+</p></introduction>
+
+<section xml:id="s-8-1">
+<title>Section 8.1</title>
+<exercises>
+<exercise xml:id="katie3-4-1-pg">
+<introduction><p>Description: Library/ASU-topics/setDiscrete/katie3-4.1.pg</p></introduction>
+<webwork source="Library/ASU-topics/setDiscrete/katie3-4.1.pg"/>
+</exercise>
+<exercise xml:id="katie3-4-2-pg">
+<introduction><p>Description: Library/ASU-topics/setDiscrete/katie3-4.2.pg</p></introduction>
+<webwork source="Library/ASU-topics/setDiscrete/katie3-4.2.pg"/>
+</exercise>
+
+ </exercises>
+ </section>
+
+<section xml:id="s-8-2">
+<title>Section 8.2</title>
+<exercises>
+
+ </exercises>
+ </section>
+ 
+<section xml:id="s-8-3">
+<title>Section 8.3</title>
+<exercises>
+<exercise  number="18" xml:id="ww-rec-rel-1">
+          <introduction><p>Recurrence Relation WeBWork Exercise</p></introduction>
+      <webwork source="Library/NAU/setDiscrete/RecurrReln_order2_distinct01.pg" />
+</exercise>
+<exercise  number="19" xml:id="ww-rec-rel-2">
+          <introduction><p>Recurrence Relation WeBWork Exercise</p></introduction>
+      <webwork source="Library/NAU/setDiscrete/RecurrReln_order2_opp_signs01.pg" />
+</exercise>
+<exercise  number="20" xml:id="rec-rel-3">
+          <introduction><p>Recurrence Relation WeBWork Exercise</p></introduction>
+      <webwork source="Library/NAU/setDiscrete/RecurrReln_order2_square01.pg" />
+</exercise>
+<exercise  number="21" xml:id="rec-rel-4">
+          <introduction><p>Recurrence Relation WeBWork Exercise</p></introduction>
+      <webwork source="Library/NAU/setDiscrete/RecurrReln_order2_nonhom01a.pg" />
+</exercise>
+ </exercises>
+ </section>
+ 
+ <section xml:id="s-8-4">
+<title>Section 8.4</title>
+<exercises>
+
+ </exercises>
+ </section>
+ 
+ <section xml:id="s-8-5">
+<title>Generating Functions</title>
+<exercises>
+
+ </exercises>
+ </section>
+ 
+</chapter>	

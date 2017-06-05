@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<chapter xml:id="chapter_12" xmlns:xi="http://www.w3.org/2001/XInclude">
+<title>More Matrix Algebra</title>
+<introduction><p></p>
+</introduction>
+<section xml:id="s-12-1">
+<title>Section 12.1</title>
+<exercises>
+
+<exercise xml:id="Row_reduction_01-pg">
+<introduction><p>Description: 
+Library/Hope/Multi1/02-04-Row-reduction/Row_reduction_01.pg</p></introduction>
+<webwork source="Library/Hope/Multi1/02-04-Row-reduction/Row_reduction_01.pg"/>
+</exercise>
+
+<exercise xml:id="Row_reduction_02-pg">
+<introduction><p>Description: 
+Library/Hope/Multi1/02-04-Row-reduction/Row_reduction_02.pg</p></introduction>
+<webwork source="Library/Hope/Multi1/02-04-Row-reduction/Row_reduction_02.pg"/>
+</exercise>
+
+<exercise xml:id="Row_reduction_03-pg">
+<introduction><p>Description: 
+Library/Hope/Multi1/02-04-Row-reduction/Row_reduction_03.pg</p></introduction>
+<webwork source="Library/Hope/Multi1/02-04-Row-reduction/Row_reduction_03.pg"/>
+</exercise>
+
+<exercise xml:id="Row_reduction_04-pg">
+<introduction><p>Description: 
+Library/Hope/Multi1/02-04-Row-reduction/Row_reduction_04.pg</p></introduction>
+<webwork source="Library/Hope/Multi1/02-04-Row-reduction/Row_reduction_04.pg"/>
+</exercise>
+
+<exercise xml:id="Row_reduction_10a-pg">
+<introduction><p>Description: 
+Library/Hope/Multi1/02-04-Row-reduction/Row_reduction_10a.pg</p></introduction>
+<webwork source="Library/Hope/Multi1/02-04-Row-reduction/Row_reduction_10a.pg"/>
+</exercise>
+
+<exercise xml:id="Row_reduction_10b-pg">
+<introduction><p>Description: 
+Library/Hope/Multi1/02-04-Row-reduction/Row_reduction_10b.pg</p></introduction>
+<webwork source="Library/Hope/Multi1/02-04-Row-reduction/Row_reduction_10b.pg"/>
+</exercise>
+
+<exercise xml:id="Row_reduction_11-pg">
+<introduction><p>Description: 
+Library/Hope/Multi1/02-04-Row-reduction/Row_reduction_11.pg</p></introduction>
+<webwork source="Library/Hope/Multi1/02-04-Row-reduction/Row_reduction_11.pg"/>
+</exercise>
+
+<exercise xml:id="Row_reduction_12-pg">
+<introduction><p>Description: 
+Library/Hope/Multi1/02-04-Row-reduction/Row_reduction_12.pg</p></introduction>
+<webwork source="Library/Hope/Multi1/02-04-Row-reduction/Row_reduction_12.pg"/>
+</exercise>
+
+ </exercises>
+ </section>
+<section xml:id="s-12-2">
+<title>Section 12.2 - Matrix Inversion</title>
+<exercises>
+
+<exercise xml:id="problem_Matrix_inversion_1-pg">
+<introduction><p>Description: 
+Library/TCNJ/TCNJ_MatrixInverse/problem1.pg</p></introduction>
+<webwork source="Library/TCNJ/TCNJ_MatrixInverse/problem1.pg"/>
+</exercise>
+
+<exercise xml:id="problem_Matrix_inversion_2-pg">
+<introduction><p>Description: 
+Library/TCNJ/TCNJ_MatrixInverse/problem2.pg</p></introduction>
+<webwork source="Library/TCNJ/TCNJ_MatrixInverse/problem2.pg"/>
+</exercise>
+
+<exercise xml:id="problem_Matrix_inversion_3-pg">
+<introduction><p>Description: 
+Library/TCNJ/TCNJ_MatrixInverse/problem3.pg</p></introduction>
+<webwork source="Library/TCNJ/TCNJ_MatrixInverse/problem3.pg"/>
+</exercise>
+
+<exercise xml:id="problem_Matrix_inversion_4-pg">
+<introduction><p>Description: 
+Library/TCNJ/TCNJ_MatrixInverse/problem4.pg</p></introduction>
+<webwork source="Library/TCNJ/TCNJ_MatrixInverse/problem4.pg"/>
+</exercise>
+
+<exercise xml:id="problem_Matrix_inversion_5-pg">
+<introduction><p>Description: 
+Library/TCNJ/TCNJ_MatrixInverse/problem5.pg</p></introduction>
+<webwork source="Library/TCNJ/TCNJ_MatrixInverse/problem5.pg"/>
+</exercise>
+
+<exercise xml:id="problem_Matrix_inversion_6-pg">
+<introduction><p>Description: 
+Library/TCNJ/TCNJ_MatrixInverse/problem6.pg</p></introduction>
+<webwork source="Library/TCNJ/TCNJ_MatrixInverse/problem6.pg"/>
+</exercise>
+
+<exercise xml:id="problem_Matrix_inversion_7-pg">
+<introduction><p>Description: 
+Library/TCNJ/TCNJ_MatrixInverse/problem7.pg</p></introduction>
+<webwork source="Library/TCNJ/TCNJ_MatrixInverse/problem7.pg"/>
+</exercise>
+
+<exercise xml:id="problem_Matrix_inversion_8-pg">
+<introduction><p>Description: 
+Library/TCNJ/TCNJ_MatrixInverse/problem8.pg</p></introduction>
+<webwork source="Library/TCNJ/TCNJ_MatrixInverse/problem8.pg"/>
+</exercise>
+
+<exercise xml:id="problem_Matrix_inversion_9-pg">
+<introduction><p>Description: 
+Library/TCNJ/TCNJ_MatrixInverse/problem9.pg</p></introduction>
+<webwork source="Library/TCNJ/TCNJ_MatrixInverse/problem9.pg"/>
+</exercise>
+
+<exercise xml:id="problem_Matrix_inversion_10-pg">
+<introduction><p>Description: 
+Library/TCNJ/TCNJ_MatrixInverse/problem10.pg</p></introduction>
+<webwork source="Library/TCNJ/TCNJ_MatrixInverse/problem10.pg"/>
+</exercise>
+
+<exercise xml:id="problem_Matrix_inversion_11-pg">
+<introduction><p>Description: 
+Library/TCNJ/TCNJ_MatrixInverse/problem11.pg</p></introduction>
+<webwork source="Library/TCNJ/TCNJ_MatrixInverse/problem11.pg"/>
+</exercise>
+
+<exercise xml:id="problem_Matrix_inversion_12-pg">
+<introduction><p>Description: 
+Library/TCNJ/TCNJ_MatrixInverse/problem12.pg</p></introduction>
+<webwork source="Library/TCNJ/TCNJ_MatrixInverse/problem12.pg"/>
+</exercise>
+
+<exercise xml:id="problem_Matrix_inversion_13-pg">
+<introduction><p>Description: 
+Library/TCNJ/TCNJ_MatrixInverse/problem13.pg</p></introduction>
+<webwork source="Library/TCNJ/TCNJ_MatrixInverse/problem13.pg"/>
+</exercise>
+
+<exercise xml:id="problem_Matrix_inversion_14-pg">
+<introduction><p>Description: 
+Library/TCNJ/TCNJ_MatrixInverse/problem14.pg</p></introduction>
+<webwork source="Library/TCNJ/TCNJ_MatrixInverse/problem14.pg"/>
+</exercise>
+
+<exercise xml:id="problem_Matrix_inversion_15-pg">
+<introduction><p>Description: 
+Library/TCNJ/TCNJ_MatrixInverse/problem15.pg</p></introduction>
+<webwork source="Library/TCNJ/TCNJ_MatrixInverse/problem15.pg"/>
+</exercise>
+
+<exercise xml:id="problem_Matrix_inversion_16-pg">
+<introduction><p>Description: 
+Library/TCNJ/TCNJ_MatrixInverse/problem16.pg</p></introduction>
+<webwork source="Library/TCNJ/TCNJ_MatrixInverse/problem16.pg"/>
+</exercise>
+
+<exercise xml:id="problem_Matrix_inversion_17-pg">
+<introduction><p>Description: 
+Library/TCNJ/TCNJ_MatrixInverse/problem17.pg</p></introduction>
+<webwork source="Library/TCNJ/TCNJ_MatrixInverse/problem17.pg"/>
+</exercise>
+
+ </exercises>
+ </section>
+<section xml:id="s-12-3">
+<title>Section 12.3 - Vector Spaces</title>
+<exercises>
+<exercise xml:id="problem_VectorSpaces_1-pg">
+<introduction><p>Description: Library/TCNJ/TCNJ_VectorSpaces/problem1.pg</p></introduction>
+<webwork source="Library/TCNJ/TCNJ_VectorSpaces/problem1.pg"/>
+</exercise>
+<exercise xml:id="problem_VectorSpaces_2-pg">
+<introduction><p>Description: Library/TCNJ/TCNJ_VectorSpaces/problem2.pg</p></introduction>
+<webwork source="Library/TCNJ/TCNJ_VectorSpaces/problem2.pg"/>
+</exercise>
+<exercise xml:id="problem_VectorSpaces_3-pg">
+<introduction><p>Description: Library/TCNJ/TCNJ_VectorSpaces/problem3.pg</p></introduction>
+<webwork source="Library/TCNJ/TCNJ_VectorSpaces/problem3.pg"/>
+</exercise>
+<exercise xml:id="problem_VectorSpaces_4-pg">
+<introduction><p>Description: Library/TCNJ/TCNJ_VectorSpaces/problem4.pg</p></introduction>
+<webwork source="Library/TCNJ/TCNJ_VectorSpaces/problem4.pg"/>
+</exercise>
+<exercise xml:id="problem_VectorSpaces_5-pg">
+<introduction><p>Description: Library/TCNJ/TCNJ_VectorSpaces/problem5.pg</p></introduction>
+<webwork source="Library/TCNJ/TCNJ_VectorSpaces/problem5.pg"/>
+</exercise>
+<exercise xml:id="problem_VectorSpaces_6-pg">
+<introduction><p>Description: Library/TCNJ/TCNJ_VectorSpaces/problem6.pg</p></introduction>
+<webwork source="Library/TCNJ/TCNJ_VectorSpaces/problem6.pg"/>
+</exercise>
+<exercise xml:id="Lin_combi_04b-pg">
+<introduction><p>Description: Library/Hope/Multi1/03-03-Linear-combinations/Lin_combi_04b.pg</p></introduction>
+<webwork source="Library/Hope/Multi1/03-03-Linear-combinations/Lin_combi_04b.pg"/>
+</exercise>
+<exercise xml:id="Lin_combi_05a-pg">
+<introduction><p>Description: Library/Hope/Multi1/03-03-Linear-combinations/Lin_combi_05a.pg</p></introduction>
+<webwork source="Library/Hope/Multi1/03-03-Linear-combinations/Lin_combi_05a.pg"/>
+</exercise>
+<exercise xml:id="Lin_combi_05b-pg">
+<introduction><p>Description: Library/Hope/Multi1/03-03-Linear-combinations/Lin_combi_05b.pg</p></introduction>
+<webwork source="Library/Hope/Multi1/03-03-Linear-combinations/Lin_combi_05b.pg"/>
+</exercise>
+<exercise xml:id="Lin_combi_06a-pg">
+<introduction><p>Description: Library/Hope/Multi1/03-03-Linear-combinations/Lin_combi_06a.pg</p></introduction>
+<webwork source="Library/Hope/Multi1/03-03-Linear-combinations/Lin_combi_06a.pg"/>
+</exercise>
+<exercise xml:id="Lin_combi_06b-pg">
+<introduction><p>Description: Library/Hope/Multi1/03-03-Linear-combinations/Lin_combi_06b.pg</p></introduction>
+<webwork source="Library/Hope/Multi1/03-03-Linear-combinations/Lin_combi_06b.pg"/>
+</exercise>
+<exercise xml:id="Lin_combi_07a-pg">
+<introduction><p>Description: Library/Hope/Multi1/03-03-Linear-combinations/Lin_combi_07a.pg</p></introduction>
+<webwork source="Library/Hope/Multi1/03-03-Linear-combinations/Lin_combi_07a.pg"/>
+</exercise>
+<exercise xml:id="Lin_combi_07b-pg">
+<introduction><p>Description: Library/Hope/Multi1/03-03-Linear-combinations/Lin_combi_07b.pg</p></introduction>
+<webwork source="Library/Hope/Multi1/03-03-Linear-combinations/Lin_combi_07b.pg"/>
+</exercise>
+<exercise xml:id="Lin_combi_08-pg">
+<introduction><p>Description: Library/Hope/Multi1/03-03-Linear-combinations/Lin_combi_08.pg</p></introduction>
+<webwork source="Library/Hope/Multi1/03-03-Linear-combinations/Lin_combi_08.pg"/>
+</exercise>
+<exercise xml:id="Lin_combi_09-pg">
+<introduction><p>Description: Library/Hope/Multi1/03-03-Linear-combinations/Lin_combi_09.pg</p></introduction>
+<webwork source="Library/Hope/Multi1/03-03-Linear-combinations/Lin_combi_09.pg"/>
+</exercise>
+<exercise xml:id="Lin_combi_10-pg">
+<introduction><p>Description: Library/Hope/Multi1/03-03-Linear-combinations/Lin_combi_10.pg</p></introduction>
+<webwork source="Library/Hope/Multi1/03-03-Linear-combinations/Lin_combi_10.pg"/>
+</exercise>
+<exercise xml:id="Lin_combi_01a-pg">
+<introduction><p>Description: Library/Hope/Multi1/03-03-Linear-combinations/Lin_combi_01a.pg</p></introduction>
+<webwork source="Library/Hope/Multi1/03-03-Linear-combinations/Lin_combi_01a.pg"/>
+</exercise>
+<exercise xml:id="Lin_combi_01b-pg">
+<introduction><p>Description: Library/Hope/Multi1/03-03-Linear-combinations/Lin_combi_01b.pg</p></introduction>
+<webwork source="Library/Hope/Multi1/03-03-Linear-combinations/Lin_combi_01b.pg"/>
+</exercise>
+<exercise xml:id="Lin_combi_02a-pg">
+<introduction><p>Description: Library/Hope/Multi1/03-03-Linear-combinations/Lin_combi_02a.pg</p></introduction>
+<webwork source="Library/Hope/Multi1/03-03-Linear-combinations/Lin_combi_02a.pg"/>
+</exercise>
+<exercise xml:id="Lin_combi_02b-pg">
+<introduction><p>Description: Library/Hope/Multi1/03-03-Linear-combinations/Lin_combi_02b.pg</p></introduction>
+<webwork source="Library/Hope/Multi1/03-03-Linear-combinations/Lin_combi_02b.pg"/>
+</exercise>
+<exercise xml:id="Lin_combi_03a-pg">
+<introduction><p>Description: Library/Hope/Multi1/03-03-Linear-combinations/Lin_combi_03a.pg</p></introduction>
+<webwork source="Library/Hope/Multi1/03-03-Linear-combinations/Lin_combi_03a.pg"/>
+</exercise>
+<exercise xml:id="Lin_combi_03b-pg">
+<introduction><p>Description: Library/Hope/Multi1/03-03-Linear-combinations/Lin_combi_03b.pg</p></introduction>
+<webwork source="Library/Hope/Multi1/03-03-Linear-combinations/Lin_combi_03b.pg"/>
+</exercise>
+<exercise xml:id="Lin_combi_04a-pg">
+<introduction><p>Description: Library/Hope/Multi1/03-03-Linear-combinations/Lin_combi_04a.pg</p></introduction>
+<webwork source="Library/Hope/Multi1/03-03-Linear-combinations/Lin_combi_04a.pg"/>
+</exercise>
+
+ </exercises>
+ </section>
+
+<section xml:id="s-12-4">
+<title>Section 12.4 - Diagonalization</title>
+<exercises>
+
+<exercise xml:id="problem_Diagonalization_1-pg">
+<introduction><p>Description: 
+Library/TCNJ/TCNJ_Diagonalization/problem1.pg</p></introduction>
+<webwork source="Library/TCNJ/TCNJ_Diagonalization/problem1.pg"/>
+</exercise>
+
+<exercise xml:id="problem_Diagonalization_2-pg">
+<introduction><p>Description: 
+Library/TCNJ/TCNJ_Diagonalization/problem2.pg</p></introduction>
+<webwork source="Library/TCNJ/TCNJ_Diagonalization/problem2.pg"/>
+</exercise>
+
+<exercise xml:id="problem_Diagonalization_3-pg">
+<introduction><p>Description: 
+Library/TCNJ/TCNJ_Diagonalization/problem3.pg</p></introduction>
+<webwork source="Library/TCNJ/TCNJ_Diagonalization/problem3.pg"/>
+</exercise>
+
+<exercise xml:id="problem_Diagonalization_4-pg">
+<introduction><p>Description: 
+Library/TCNJ/TCNJ_Diagonalization/problem4.pg</p></introduction>
+<webwork source="Library/TCNJ/TCNJ_Diagonalization/problem4.pg"/>
+</exercise>
+
+<exercise xml:id="problem_Diagonalization_5-pg">
+<introduction><p>Description: 
+Library/TCNJ/TCNJ_Diagonalization/problem5.pg</p></introduction>
+<webwork source="Library/TCNJ/TCNJ_Diagonalization/problem5.pg"/>
+</exercise>
+ </exercises>
+ </section>
+</chapter>	
