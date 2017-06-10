@@ -39,6 +39,10 @@
  <section xml:id="s-2-2">
 <title>Permutations</title>
 <exercises>
+<exercise xml:id="sw10_2_5-pg">
+<introduction><p>Description: Library/ASU-topics/setCount/sw10_2_5.pg</p></introduction>
+<webwork source="Library/ASU-topics/setCount/sw10_2_5.pg"/>
+</exercise>
 <exercise xml:id="sw10_1_7-pg">
 <introduction><p>Description: Library/ASU-topics/setCount/sw10_1_7.pg</p></introduction>
 <webwork source="Library/ASU-topics/setCount/sw10_1_7.pg"/>
@@ -47,18 +51,14 @@
 <introduction><p>Description: Library/ASU-topics/setCount/sw10_1_33.pg</p></introduction>
 <webwork source="Library/ASU-topics/setCount/sw10_1_33.pg"/>
 </exercise>
-
-
-
-
-
-
-
-
-
-
-
-
+<exercise xml:id="Counting_4-pg">
+<introduction><p>Description: Library/NAU/setCounting/Counting_4.pg</p></introduction>
+<webwork source="Library/NAU/setCounting/Counting_4.pg"/>
+</exercise>
+<exercise xml:id="Counting_3-pg">
+<introduction><p>Description: Library/NAU/setCounting/Counting_3.pg</p></introduction>
+<webwork source="Library/NAU/setCounting/Counting_3.pg"/>
+</exercise>
  </exercises>
  </section>
  <section xml:id="s-2-3">
@@ -84,10 +84,6 @@
 <introduction><p>Description: Library/ASU-topics/setCount/sw10_2_52.pg</p></introduction>
 <webwork source="Library/ASU-topics/setCount/sw10_2_52.pg"/>
 </exercise>
-<exercise xml:id="sw10_2_5-pg">
-<introduction><p>Description: Library/ASU-topics/setCount/sw10_2_5.pg</p></introduction>
-<webwork source="Library/ASU-topics/setCount/sw10_2_5.pg"/>
-</exercise>
 
 <exercise xml:id="Counting_1-pg">
 <introduction><p>Description: Library/NAU/setCounting/Counting_1.pg</p></introduction>
@@ -105,18 +101,12 @@
 <introduction><p>Description: Library/NAU/setCounting/counting2.pg</p></introduction>
 <webwork source="Library/NAU/setCounting/counting2.pg"/>
 </exercise>
-<exercise xml:id="Counting_3-pg">
-<introduction><p>Description: Library/NAU/setCounting/Counting_3.pg</p></introduction>
-<webwork source="Library/NAU/setCounting/Counting_3.pg"/>
-</exercise>
+
 <exercise xml:id="counting3-pg">
 <introduction><p>Description: Library/NAU/setCounting/counting3.pg</p></introduction>
 <webwork source="Library/NAU/setCounting/counting3.pg"/>
 </exercise>
-<exercise xml:id="Counting_4-pg">
-<introduction><p>Description: Library/NAU/setCounting/Counting_4.pg</p></introduction>
-<webwork source="Library/NAU/setCounting/Counting_4.pg"/>
-</exercise>
+
 <exercise xml:id="Counting_5-pg">
 <introduction><p>Description: Library/NAU/setCounting/Counting_5.pg</p></introduction>
 <webwork source="Library/NAU/setCounting/Counting_5.pg"/>
@@ -137,10 +127,7 @@
 <introduction><p>Description: Library/NAU/setCounting/Counting_9.pg</p></introduction>
 <webwork source="Library/NAU/setCounting/Counting_9.pg"/>
 </exercise>
-<exercise xml:id="Fibonacci-pg">
-<introduction><p>Description: Library/NAU/setCounting/Fibonacci.pg</p></introduction>
-<webwork source="Library/NAU/setCounting/Fibonacci.pg"/>
-</exercise>
+
 <exercise xml:id="generalizedCombination1-pg">
 <introduction><p>Description: Library/NAU/setCounting/generalizedCombination1.pg</p></introduction>
 <webwork source="Library/NAU/setCounting/generalizedCombination1.pg"/>
@@ -177,10 +164,11 @@
 <introduction><p>Description: Library/NAU/setCounting/Counting_12.pg</p></introduction>
 <webwork source="Library/NAU/setCounting/Counting_12.pg"/>
 </exercise>
-<exercise xml:id="Counting_13-pg">
-<introduction><p>Description: Library/NAU/setCounting/Counting_13.pg</p></introduction>
-<webwork source="Library/NAU/setCounting/Counting_13.pg"/>
+<exercise xml:id="Counting_14-pg_local">
+<introduction><p>Description: local/local_problems/2_3/binomial_calcuation.pg</p></introduction>
+<webwork source="local/local_problems/2_3/binomial_calcuation.pg"/>
 </exercise>
+
 <exercise xml:id="Counting_14-pg">
 <introduction><p>Description: Library/NAU/setCounting/Counting_14.pg</p></introduction>
 <webwork source="Library/NAU/setCounting/Counting_14.pg"/>
@@ -211,6 +199,10 @@
 <exercise xml:id="sw10_2_21-pg">
 <introduction><p>Description: Library/ASU-topics/setCount/sw10_2_21.pg</p></introduction>
 <webwork source="Library/ASU-topics/setCount/sw10_2_21.pg"/>
+</exercise>
+<exercise xml:id="Counting_13-pg">
+<introduction><p>Description: Library/NAU/setCounting/Counting_13.pg</p></introduction>
+<webwork source="Library/NAU/setCounting/Counting_13.pg"/>
 </exercise>
 <exercise xml:id="inclexclA1-pg">
 <introduction><p>Description: Library/SDSU/Discrete/Sets/inclexclA1.pg</p></introduction>
@@ -247,6 +239,10 @@
 <exercise xml:id="psets3-pg">
 <introduction><p>Description: Library/ASU-topics/setSets/psets3.pg</p></introduction>
 <webwork source="Library/ASU-topics/setSets/psets3.pg"/>
+</exercise>
+<exercise xml:id="Fibonacci-pg">
+<introduction><p>Description: Library/NAU/setCounting/Fibonacci.pg</p></introduction>
+<webwork source="Library/NAU/setCounting/Fibonacci.pg"/>
 </exercise>
 <exercise xml:id="p11-pg">
 <introduction><p>Description: Library/ASU-topics/setCount/p11.pg</p></introduction>

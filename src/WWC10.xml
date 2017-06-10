@@ -6,8 +6,43 @@
 <section xml:id="s-10-1">
 <title>Section 10.1</title>
 <exercises>
+<exercise xml:id="IsTree-pg">
+<introduction><p>Description: Library/NAU/setGraphTheory/IsTree.pg</p></introduction>
+<webwork source="Library/NAU/setGraphTheory/IsTree.pg"/>
+</exercise>
+<exercise xml:id="MakeForest-pg">
+<introduction><p>Description: Library/NAU/setGraphTheory/MakeForest.pg</p></introduction>
+<webwork source="Library/NAU/setGraphTheory/MakeForest.pg"/>
+</exercise>
+<exercise xml:id="MakeTree-pg">
+<introduction><p>Description: Library/NAU/setGraphTheory/MakeTree.pg</p></introduction>
+<webwork source="Library/NAU/setGraphTheory/MakeTree.pg"/>
+</exercise>
+ </exercises>
+ </section>
+ 
+ <section xml:id="s-10-2">
+<title>Section 10.2</title>
+<exercises>
+<exercise xml:id="Spanningtree-pg">
+<introduction><p>Description: Library/NAU/setGraphTheory/Spanningtree.pg</p></introduction>
+<webwork source="Library/NAU/setGraphTheory/Spanningtree.pg"/>
+</exercise>
 
-
+ </exercises>
+ </section>
+ 
+ <section xml:id="s-10-3">
+<title>Section 10.3</title>
+<exercises>
+<exercise xml:id="Kruskal2-pg">
+<introduction><p>Description: Library/NAU/setGraphTheory/Kruskal2.pg</p></introduction>
+<webwork source="Library/NAU/setGraphTheory/Kruskal2.pg"/>
+</exercise>
+<exercise xml:id="Kruskal-pg">
+<introduction><p>Description: Library/NAU/setGraphTheory/Kruskal.pg</p></introduction>
+<webwork source="Library/NAU/setGraphTheory/Kruskal.pg"/>
+</exercise>
  </exercises>
  </section>
 </chapter>	

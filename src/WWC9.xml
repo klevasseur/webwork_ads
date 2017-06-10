@@ -46,70 +46,9 @@ at selected topics in graph theory.</p>
 <introduction><p>Description: Library/NAU/setGraphTheory/App.pg</p></introduction>
 <webwork source="Library/NAU/setGraphTheory/App.pg"/>
 </exercise>
-<exercise xml:id="Dijkstra-pg">
-<introduction><p>Description: Library/NAU/setGraphTheory/Dijkstra.pg</p></introduction>
-<webwork source="Library/NAU/setGraphTheory/Dijkstra.pg"/>
-</exercise>
-
-<exercise xml:id="IsEuler2-pg">
-<introduction><p>Description: Library/NAU/setGraphTheory/IsEuler2.pg</p></introduction>
-<webwork source="Library/NAU/setGraphTheory/IsEuler2.pg"/>
-</exercise>
-<exercise xml:id="IsEuler-pg">
-<introduction><p>Description: Library/NAU/setGraphTheory/IsEuler.pg</p></introduction>
-<webwork source="Library/NAU/setGraphTheory/IsEuler.pg"/>
-</exercise>
-<exercise xml:id="IsHamiltonian-pg">
-<introduction><p>Description: Library/NAU/setGraphTheory/IsHamiltonian.pg</p></introduction>
-<webwork source="Library/NAU/setGraphTheory/IsHamiltonian.pg"/>
-</exercise>
-<exercise xml:id="IsTree-pg">
-<introduction><p>Description: Library/NAU/setGraphTheory/IsTree.pg</p></introduction>
-<webwork source="Library/NAU/setGraphTheory/IsTree.pg"/>
-</exercise>
-<exercise xml:id="Kruskal2-pg">
-<introduction><p>Description: Library/NAU/setGraphTheory/Kruskal2.pg</p></introduction>
-<webwork source="Library/NAU/setGraphTheory/Kruskal2.pg"/>
-</exercise>
-<exercise xml:id="Kruskal-pg">
-<introduction><p>Description: Library/NAU/setGraphTheory/Kruskal.pg</p></introduction>
-<webwork source="Library/NAU/setGraphTheory/Kruskal.pg"/>
-</exercise>
-<exercise xml:id="MakeBipartite-pg">
-<introduction><p>Description: Library/NAU/setGraphTheory/MakeBipartite.pg</p></introduction>
-<webwork source="Library/NAU/setGraphTheory/MakeBipartite.pg"/>
-</exercise>
 <exercise xml:id="MakeDegrees-pg">
 <introduction><p>Description: Library/NAU/setGraphTheory/MakeDegrees.pg</p></introduction>
 <webwork source="Library/NAU/setGraphTheory/MakeDegrees.pg"/>
-</exercise>
-<exercise xml:id="MakeForest-pg">
-<introduction><p>Description: Library/NAU/setGraphTheory/MakeForest.pg</p></introduction>
-<webwork source="Library/NAU/setGraphTheory/MakeForest.pg"/>
-</exercise>
-<exercise xml:id="MakeTree-pg">
-<introduction><p>Description: Library/NAU/setGraphTheory/MakeTree.pg</p></introduction>
-<webwork source="Library/NAU/setGraphTheory/MakeTree.pg"/>
-</exercise>
-<exercise xml:id="RoomSchedule-pg">
-<introduction><p>Description: Library/NAU/setGraphTheory/RoomSchedule.pg</p></introduction>
-<webwork source="Library/NAU/setGraphTheory/RoomSchedule.pg"/>
-</exercise>
-<exercise xml:id="SortedEdges2-pg">
-<introduction><p>Description: Library/NAU/setGraphTheory/SortedEdges2.pg</p></introduction>
-<webwork source="Library/NAU/setGraphTheory/SortedEdges2.pg"/>
-</exercise>
-<exercise xml:id="SortedEdges3-pg">
-<introduction><p>Description: Library/NAU/setGraphTheory/SortedEdges3.pg</p></introduction>
-<webwork source="Library/NAU/setGraphTheory/SortedEdges3.pg"/>
-</exercise>
-<exercise xml:id="SortedEdges-pg">
-<introduction><p>Description: Library/NAU/setGraphTheory/SortedEdges.pg</p></introduction>
-<webwork source="Library/NAU/setGraphTheory/SortedEdges.pg"/>
-</exercise>
-<exercise xml:id="Spanningtree-pg">
-<introduction><p>Description: Library/NAU/setGraphTheory/Spanningtree.pg</p></introduction>
-<webwork source="Library/NAU/setGraphTheory/Spanningtree.pg"/>
 </exercise>
  </exercises>
  </section>
@@ -134,6 +73,18 @@ at selected topics in graph theory.</p>
  <section xml:id="s-9-4">
 <title>Traversals: Eulerian and Hamiltonian</title>
 <exercises>
+<exercise xml:id="IsEuler2-pg">
+<introduction><p>Description: Library/NAU/setGraphTheory/IsEuler2.pg</p></introduction>
+<webwork source="Library/NAU/setGraphTheory/IsEuler2.pg"/>
+</exercise>
+<exercise xml:id="IsEuler-pg">
+<introduction><p>Description: Library/NAU/setGraphTheory/IsEuler.pg</p></introduction>
+<webwork source="Library/NAU/setGraphTheory/IsEuler.pg"/>
+</exercise>
+<exercise xml:id="IsHamiltonian-pg">
+<introduction><p>Description: Library/NAU/setGraphTheory/IsHamiltonian.pg</p></introduction>
+<webwork source="Library/NAU/setGraphTheory/IsHamiltonian.pg"/>
+</exercise>
 <exercise xml:id="FindEulerCircuit-pg">
 <introduction><p>Description: Library/NAU/setGraphTheory/FindEulerCircuit.pg</p></introduction>
 <webwork source="Library/NAU/setGraphTheory/FindEulerCircuit.pg"/>
@@ -203,6 +154,10 @@ at selected topics in graph theory.</p>
 <introduction><p>Description: Library/NAU/setGraphTheory/IsBipartite.pg</p></introduction>
 <webwork source="Library/NAU/setGraphTheory/IsBipartite.pg"/>
 </exercise>
+<exercise xml:id="MakeBipartite-pg">
+<introduction><p>Description: Library/NAU/setGraphTheory/MakeBipartite.pg</p></introduction>
+<webwork source="Library/NAU/setGraphTheory/MakeBipartite.pg"/>
+</exercise>
 <exercise xml:id="FindChromaticNumber-pg">
 <introduction><p>Description: Library/NAU/setGraphTheory/FindChromaticNumber.pg</p></introduction>
 <webwork source="Library/NAU/setGraphTheory/FindChromaticNumber.pg"/>
@@ -211,6 +166,11 @@ at selected topics in graph theory.</p>
           <introduction><p>Graph Coloring exercise</p></introduction>
       <webwork source="Library/NAU/setGraphTheory/KnownChromatic.pg" />
 </exercise>
+<exercise xml:id="RoomSchedule-pg">
+<introduction><p>Description: Library/NAU/setGraphTheory/RoomSchedule.pg</p></introduction>
+<webwork source="Library/NAU/setGraphTheory/RoomSchedule.pg"/>
+</exercise>
+
  </exercises>
  </section>
 </chapter>	
