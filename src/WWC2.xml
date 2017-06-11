@@ -165,7 +165,7 @@
 <webwork source="Library/NAU/setCounting/Counting_12.pg"/>
 </exercise>
 <exercise xml:id="Counting_14-pg_local">
-<introduction><p>Description: Compute three binomial coefficients.  Address: local/local_problems/2_3/binomial_calcuation.pg</p></introduction>
+<introduction><p>Description: Compute three binomial coefficients.  Address:	 local/local_problems/2_3/binomial_calcuation.pg</p></introduction>
 <webwork source="local/local_problems/2_3/binomial_calcuation.pg"/>
 </exercise>
 <exercise xml:id="Counting_15-pg">
