@@ -204,15 +204,7 @@
  </exercises>
  </section>
  
-<section xml:id="s-3-7">
-<title>Mathematical Induction</title>
-<exercises>
-<exercise xml:id="InductionDivisibility01-pg">
-<introduction><p>Description: MC/Proofs/EssayProofs/InductionDivisibility01.pg</p></introduction>
-<webwork source="MC/Proofs/EssayProofs/InductionDivisibility01.pg"/>
-</exercise>
- </exercises>
- </section>
+<section xml:id="s-3-7">	</section>
 
 <section xml:id="s-3-8">
 <title>Quantifiers</title>

@@ -187,6 +187,15 @@
     <webwork>
         <statement>
             <p>
+                If <m>5+7+9+ \cdots +31 = \sum_{k=a}^{b} 2k-1</m>, then <m>a=</m><var name="3" width="8" /> and <m>b=</m><var name="16" width="8" />
+            </p>
+        </statement>
+    </webwork>
+ </exercise>
+<exercise><p>Working with sums.</p>
+    <webwork>
+        <statement>
+            <p>
                 <m>(\sum_{k=2}^{20} k^2)-(\sum_{k=1}^{19} k^2)=</m><var name="399" width="10" />
             </p>
             <p>
