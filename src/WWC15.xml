@@ -60,6 +60,27 @@
 <introduction><p>Description</p></introduction>
 <webwork source="Library/UMass-Amherst/Abstract-Algebra/PS-Cosets/Cosets5.pg" />
 </exercise>
+<exercise xml:id="QuotientsProducts9-pg">
+<introduction><p>Description</p></introduction>
+<webwork source="Library/UMass-Amherst/Abstract-Algebra/PS-GroupQuotientsProducts/QuotientsProducts9.pg"/>
+</exercise>
+<exercise xml:id="QuotientsProducts8-pg">
+<introduction><p>Description</p></introduction>
+<webwork source="Library/UMass-Amherst/Abstract-Algebra/PS-GroupQuotientsProducts/QuotientsProducts8.pg"/>
+</exercise>
+<exercise xml:id="QuotientsProducts3-pg">
+<introduction><p>Description</p></introduction>
+<webwork source="Library/UMass-Amherst/Abstract-Algebra/PS-GroupQuotientsProducts/QuotientsProducts3.pg"/>
+</exercise>
+<exercise xml:id="QuotientsProducts4-pg">
+<introduction><p>Description</p></introduction>
+<webwork source="Library/UMass-Amherst/Abstract-Algebra/PS-GroupQuotientsProducts/QuotientsProducts4.pg"/>
+</exercise>
+<exercise xml:id="QuotientsProducts5-pg">
+<introduction><p>Description</p></introduction>
+<webwork source="Library/UMass-Amherst/Abstract-Algebra/PS-GroupQuotientsProducts/QuotientsProducts5.pg"/>
+</exercise>
+
  </exercises>
  </section>
 
@@ -198,9 +219,50 @@
  
  
  <section xml:id="s-15-5">
-<title>Section 15-5 Group Actions</title>
+<title>Section 15-5 Coding</title>
 <exercises>
- 
+<exercise>
+<introduction><p>This first cell computes the parity check matrix from the generator matrix.  You need to refer to this matrix when you get a syndrome in the next cell.</p>
+<p>The parity check matrix isn't unique. It is any matrix with the property that   \(b\) is a code word if and only if \(b P\) is equal to a row of zeros.  If an error occured in position \(k\) of the data, then the syndrome, \(b P\), will be row \(k\) of \(P\). </p>
+<sage>  
+<input>
+G=Matrix(Integers(2),
+[[1,0,0,0,1,1,0],
+[0,1,0,0,1,0,1],
+[0,0,1,0,0,1,1],
+[0,0,0,1,1,1,1]])
+P=G.right_kernel_matrix().transpose();P
+</input>
+</sage>
+<p>You can use this cell to compute the syndrome for any sequence of seven bits.  Just replace the list of seven zeros in line 7 with whatever data you have.  After you've identified the syndrome and corrected each 7-tuple, you can discard the last three bits.</p>
+
+<sage>
+<input> 
+G=Matrix(Integers(2),
+[[1,0,0,0,1,1,0],
+[0,1,0,0,1,0,1],
+[0,0,1,0,0,1,1],
+[0,0,0,1,1,1,1]])
+P=G.right_kernel_matrix().transpose()
+b=Matrix(Integers(2),[0,0,0,0,0,0,0])
+syndrome=(b*P);syndrome</input></sage>
+<p>Once you've corrected all four 7-tuples, combine them into a sequence of 16 bits.  This code below will convert that sequence into a base 10 number. Just replace the sequence of all 1's with your sequence</p>
+<sage>
+<input>  
+bits=[1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1]
+message=0
+for b in bits:
+    message=2*message+b
+message</input></sage></introduction>
+<webwork source="local_problems/coding/hamming_code_1.pg"/>
+</exercise>
+</exercises>
+ </section>
+
+ <section xml:id="s-15-6">
+<title>Section 15-6 Group Actions</title>
+<exercises>
+  
 <exercise xml:id="GroupActions1-pg">
 <introduction><p>Description</p></introduction>
 <webwork source="Library/UMass-Amherst/Abstract-Algebra/PS-GroupActions/GroupActions1.pg"/>

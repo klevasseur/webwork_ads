@@ -5,16 +5,20 @@
 <p>The primary goal of this chapter is to make the reader aware of what an algebraic system is and how algebraic systems can be studied at different levels of abstraction. After describing the concrete, axiomatic, and universal levels, we will introduce one of the most important algebraic systems at the axiomatic level, the group. In this chapter, group theory will be a vehicle for introducing the universal concepts of isomorphism, direct product, subsystem, and generating set. These concepts can be applied to all algebraic systems. The simplicity of group theory will help the reader obtain a good intuitive understanding of these concepts. In Chapter 15, we will introduce some additional concepts and applications of group theory. We will close the chapter with a discussion of how some computer hardware and software systems use the concept of an algebraic system.</p>
 </introduction>
 <section xml:id="s-11-1">
-<title>Section 11.1 - Groups</title>
+<title>Section 11.1 - Binary Operations</title>
 <exercises>
-
-<exercise xml:id="Groups1-pg">
-<introduction><p>Description</p></introduction>
-<webwork source="Library/UMass-Amherst/Abstract-Algebra/PS-Groups/Groups1.pg"/>
-</exercise>
 <exercise xml:id="Groups2-pg">
-<introduction><p>Description</p></introduction>
-<webwork source="Library/UMass-Amherst/Abstract-Algebra/PS-Groups/Groups2.pg"/>
+<introduction><p>Identify the properties of various binary operations on the integers.</p></introduction>
+<webwork source="local/Library/UMass-Amherst/Abstract-Algebra/PS-Groups/Groups2.pg"/>
+</exercise>
+</exercises>
+</section>
+<section xml:id="s-11-2">
+<title>Section 11.2 - Groups</title>
+<exercises>
+<exercise xml:id="Groups1-pg">
+<introduction><p>Define a unconventional operation on the integers that produces a group.  This exercise helps you step through the process of verifying that you do indeed get a group.</p></introduction>
+<webwork source="Library/UMass-Amherst/Abstract-Algebra/PS-Groups/Groups1.pg"/>
 </exercise>
 <exercise xml:id="Groups3-pg">
 <introduction><p>Description</p></introduction>
@@ -66,8 +70,11 @@
 </exercise>
  </exercises>
  </section>
-<section xml:id="s-11-2">
-<title>Section 11.2 - Congruences</title>
+<section xml:id="s-11-3">
+<title>Section 11.3 - Properties of Groups</title>
+ </section>
+<section xml:id="s-11-4">
+<title>Section 11.4 - Modular Arithmetic</title>
 <exercises>
 
 <exercise xml:id="Congruences1-pg">
@@ -122,11 +129,45 @@
 <introduction><p>Description</p></introduction>
 <webwork source="Library/UMass-Amherst/Abstract-Algebra/PS-Congruences/Congruences13.pg"/>
 </exercise>
+<exercise xml:id="katie2-4-1-pg">
+<introduction><p>Description: Library/ASU-topics/setDiscrete/katie2-4.1.pg</p></introduction>
+<webwork source="Library/ASU-topics/setDiscrete/katie2-4.1.pg"/>
+</exercise>
+<exercise xml:id="ur_dis_6_4_11-pg">
+<introduction><p>Description: Library/Rochester/setDiscrete6Integers/ur_dis_6_4.pg</p></introduction>
+<webwork source="Library/Rochester/setDiscrete6Integers/ur_dis_6_4.pg"/>
+</exercise>
+<exercise xml:id="ur_dis_6_5-pg">
+<introduction><p>Description: Library/Rochester/setDiscrete6Integers/ur_dis_6_5.pg</p></introduction>
+<webwork source="Library/Rochester/setDiscrete6Integers/ur_dis_6_5.pg"/>
+</exercise>
+<exercise xml:id="ur_dis_6_6-pg">
+<introduction><p>Description: Library/Rochester/setDiscrete6Integers/ur_dis_6_6.pg</p></introduction>
+<webwork source="Library/Rochester/setDiscrete6Integers/ur_dis_6_6.pg"/>
+</exercise>
+<exercise xml:id="ur_dis_6_7-pg">
+<introduction><p>Description: Library/Rochester/setDiscrete6Integers/ur_dis_6_7.pg</p></introduction>
+<webwork source="Library/Rochester/setDiscrete6Integers/ur_dis_6_7.pg"/>
+</exercise>
+<exercise xml:id="ur_dis_6_8-pg">
+<introduction><p>Description: Library/Rochester/setDiscrete6Integers/ur_dis_6_8.pg</p></introduction>
+<webwork source="Library/Rochester/setDiscrete6Integers/ur_dis_6_8.pg"/>
+</exercise>
+<exercise xml:id="ur_dis_6_9-pg">
+<introduction><p>Description: Library/Rochester/setDiscrete6Integers/ur_dis_6_9.pg</p></introduction>
+<webwork source="Library/Rochester/setDiscrete6Integers/ur_dis_6_9.pg"/>
+</exercise>
+
+<exercise xml:id="ur_dis_6_4-pg">
+<introduction><p>Description: Library/Rochester/setDiscrete6Integers/ur_dis_6_4.pg</p></introduction>
+<webwork source="Library/Rochester/setDiscrete6Integers/ur_dis_6_4.pg"/>
+</exercise>
+
 </exercises>
 </section>
 
-<section xml:id="s-11-3">
-<title>Section 11.3 - Subgroups</title>
+<section xml:id="s-11-5">
+<title>Section 11.5 - Subsystems</title>
 <exercises>
 
 <exercise xml:id="Subgroups1-pg">
@@ -179,42 +220,9 @@
 
 
 
-<section xml:id="s-11-4">
-<title>Section 11.4 - Quotients/Products</title>
+<section xml:id="s-11-6">
+<title>Section 11.6 - Direct Products</title>
 <exercises>
-<exercise xml:id="katie2-4-1-pg">
-<introduction><p>Description: Library/ASU-topics/setDiscrete/katie2-4.1.pg</p></introduction>
-<webwork source="Library/ASU-topics/setDiscrete/katie2-4.1.pg"/>
-</exercise>
-<exercise xml:id="ur_dis_6_4_11-pg">
-<introduction><p>Description: Library/Rochester/setDiscrete6Integers/ur_dis_6_4.pg</p></introduction>
-<webwork source="Library/Rochester/setDiscrete6Integers/ur_dis_6_4.pg"/>
-</exercise>
-<exercise xml:id="ur_dis_6_5-pg">
-<introduction><p>Description: Library/Rochester/setDiscrete6Integers/ur_dis_6_5.pg</p></introduction>
-<webwork source="Library/Rochester/setDiscrete6Integers/ur_dis_6_5.pg"/>
-</exercise>
-<exercise xml:id="ur_dis_6_6-pg">
-<introduction><p>Description: Library/Rochester/setDiscrete6Integers/ur_dis_6_6.pg</p></introduction>
-<webwork source="Library/Rochester/setDiscrete6Integers/ur_dis_6_6.pg"/>
-</exercise>
-<exercise xml:id="ur_dis_6_7-pg">
-<introduction><p>Description: Library/Rochester/setDiscrete6Integers/ur_dis_6_7.pg</p></introduction>
-<webwork source="Library/Rochester/setDiscrete6Integers/ur_dis_6_7.pg"/>
-</exercise>
-<exercise xml:id="ur_dis_6_8-pg">
-<introduction><p>Description: Library/Rochester/setDiscrete6Integers/ur_dis_6_8.pg</p></introduction>
-<webwork source="Library/Rochester/setDiscrete6Integers/ur_dis_6_8.pg"/>
-</exercise>
-<exercise xml:id="ur_dis_6_9-pg">
-<introduction><p>Description: Library/Rochester/setDiscrete6Integers/ur_dis_6_9.pg</p></introduction>
-<webwork source="Library/Rochester/setDiscrete6Integers/ur_dis_6_9.pg"/>
-</exercise>
-
-<exercise xml:id="ur_dis_6_4-pg">
-<introduction><p>Description: Library/Rochester/setDiscrete6Integers/ur_dis_6_4.pg</p></introduction>
-<webwork source="Library/Rochester/setDiscrete6Integers/ur_dis_6_4.pg"/>
-</exercise>
 <exercise xml:id="QuotientsProducts1-pg">
 <introduction><p>Description</p></introduction>
 <webwork source="Library/UMass-Amherst/Abstract-Algebra/PS-GroupQuotientsProducts/QuotientsProducts1.pg"/>
@@ -223,18 +231,15 @@
 <introduction><p>Description</p></introduction>
 <webwork source="Library/UMass-Amherst/Abstract-Algebra/PS-GroupQuotientsProducts/QuotientsProducts2.pg"/>
 </exercise>
-<exercise xml:id="QuotientsProducts3-pg">
-<introduction><p>Description</p></introduction>
-<webwork source="Library/UMass-Amherst/Abstract-Algebra/PS-GroupQuotientsProducts/QuotientsProducts3.pg"/>
-</exercise>
-<exercise xml:id="QuotientsProducts4-pg">
-<introduction><p>Description</p></introduction>
-<webwork source="Library/UMass-Amherst/Abstract-Algebra/PS-GroupQuotientsProducts/QuotientsProducts4.pg"/>
-</exercise>
-<exercise xml:id="QuotientsProducts5-pg">
-<introduction><p>Description</p></introduction>
-<webwork source="Library/UMass-Amherst/Abstract-Algebra/PS-GroupQuotientsProducts/QuotientsProducts5.pg"/>
-</exercise>
+
+
+
+</exercises>
+</section>
+
+<section xml:id="s-11-7">
+<title>Section 11.7 - Isomorphisms</title>
+<exercises>
 <exercise xml:id="QuotientsProducts6-pg">
 <introduction><p>Description</p></introduction>
 <webwork source="Library/UMass-Amherst/Abstract-Algebra/PS-GroupQuotientsProducts/QuotientsProducts6.pg"/>
@@ -243,15 +248,6 @@
 <introduction><p>Description</p></introduction>
 <webwork source="Library/UMass-Amherst/Abstract-Algebra/PS-GroupQuotientsProducts/QuotientsProducts7.pg"/>
 </exercise>
-<exercise xml:id="QuotientsProducts8-pg">
-<introduction><p>Description</p></introduction>
-<webwork source="Library/UMass-Amherst/Abstract-Algebra/PS-GroupQuotientsProducts/QuotientsProducts8.pg"/>
-</exercise>
-<exercise xml:id="QuotientsProducts9-pg">
-<introduction><p>Description</p></introduction>
-<webwork source="Library/UMass-Amherst/Abstract-Algebra/PS-GroupQuotientsProducts/QuotientsProducts9.pg"/>
-</exercise>
-
 </exercises>
 </section>
 

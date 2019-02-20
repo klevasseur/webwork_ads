@@ -8,7 +8,7 @@
 <exercises>
 
 
- </exercises>
+</exercises>
  </section>
 
 
@@ -18,10 +18,12 @@
 <section xml:id="s-13-5">
 <title>Section 13.5</title>
 <exercises>
+<!-- 
 <exercise xml:id="ur_dis_1_5-pg">
 <introduction><p>Description: Rochester/setDiscrete1Logic/ur_dis_1_5.pg</p></introduction>
 <webwork source="Rochester/setDiscrete1Logic/ur_dis_1_5.pg"/>
 </exercise>
+ -->
 
  </exercises>
  </section>

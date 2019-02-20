@@ -62,6 +62,11 @@ Library/Hope/Multi1/02-04-Row-reduction/Row_reduction_12.pg</p></introduction>
 <exercises>
 
 <exercise xml:id="problem_Matrix_inversion_1-pg">
+<introduction><p>A local copy of the first TCNJ problem, which doesn't seem to work out of the Library.</p></introduction>
+<webwork source="local_problems/matrix_inverse/problem1.pg"/>
+</exercise>
+
+<exercise xml:id="problem_Matrix_inversion_1-pg">
 <introduction><p>Description: 
 Library/TCNJ/TCNJ_MatrixInverse/problem1.pg</p></introduction>
 <webwork source="Library/TCNJ/TCNJ_MatrixInverse/problem1.pg"/>
