@@ -6,8 +6,80 @@
 <section xml:id="s-5-1">
 <title>Section 5.1</title>
 <exercises>
+<exercise xml:id="problem_Matrix_addition_1-pg">
+<introduction><p>Description: 
+Basic matrix addition practice.</p></introduction>
+<webwork source="Library/Mizzou/Finite_Math/Linear_Algebra_Matrix_Operations/Add.pg"/>
+</exercise>
 
+<exercise xml:id="problem_Matrix_ops-2-pg">
+<introduction><p>--</p></introduction>
+<webwork source="Library/Hope/Multi1/02-01-Matrix-operations/Matrix_mult_03.pg"/>
+</exercise>
 
+<exercise xml:id="problem_Matrix_ops-3-pg">
+<introduction><p>--</p></introduction>
+<webwork source="Library/Hope/Multi1/02-01-Matrix-operations/Matrix_mult_08.pg"/>
+</exercise>
+
+<exercise xml:id="problem_Matrix_ops-4-pg">
+<introduction><p>--</p></introduction>
+<webwork source="Library/Rochester/setLinearAlgebra3Matrices/ur_la_3_16.pg"/>
+</exercise>
+
+<exercise xml:id="problem_Matrix_ops-5-pg">
+<introduction><p>--</p></introduction>
+<webwork source="Library/Mizzou/Finite_Math/Linear_Algebra_Matrix_Operations/Prod(2x2).pg"/>
+</exercise>
+
+<exercise xml:id="problem_Matrix_ops-6-pg">
+<introduction><p>--</p></introduction>
+<webwork source="Library/ASU-topics/set119MatrixAlgebra/p32.pg"/>
+</exercise>
+
+<exercise xml:id="problem_Matrix_ops-7-pg">
+<introduction><p>--</p></introduction>
+<webwork source="Library/ASU-topics/set119MatrixAlgebra/p1.pg"/>
+</exercise>
+
+ </exercises>
+ </section>
+<section xml:id="s-5-2">
+<title>Section 5.2</title>
+<exercises>
+ </exercises>
+ </section>
+<section xml:id="s-5-3">
+<title>Section 5.3</title>
+<exercises>
+<exercise xml:id="problem_Matrix_laws-1-pg">
+<introduction><p>--</p></introduction>
+<webwork source="Library/Hope/Multi1/02-01-Matrix-operations/Matrix_mult_01.pg"/>
+</exercise>
+
+<exercise xml:id="problem_Matrix_laws-2-pg">
+<introduction><p>--</p></introduction>
+<webwork source="Library/ASU-topics/set119MatrixAlgebra/p16.pg"/>
+</exercise>
+ </exercises>
+ </section>
+<section xml:id="s-5-4">
+<title>Section 5.4</title>
+<exercises>
+<exercise xml:id="problem_Matrix_odd-1-pg">
+<introduction><p>--</p></introduction>
+<webwork source="Library/Rochester/setLinearAlgebra3Matrices/ur_la_3_33.pg"/>
+</exercise>
+
+<exercise xml:id="problem_Matrix_odd-2-pg">
+<introduction><p>--</p></introduction>
+<webwork source="Library/Rochester/setLinearAlgebra3Matrices/ur_la_3_34.pg"/>
+</exercise>
+
+<exercise xml:id="problem_Matrix_odd-3-pg">
+<introduction><p>--</p></introduction>
+<webwork source="Library/Hope/Multi1/02-01-Matrix-operations/Matrix_mult_10.pg"/>
+</exercise>
  </exercises>
  </section>
 </chapter>	
